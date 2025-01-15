@@ -1,0 +1,1622 @@
+ID,Name,Age,City,Blood.Type,Education,Employment.Status,Salary,Health.Condition,Credit.Score,Date.of.Admission
+3557,Haley Perkins,52,Albuquerque,A+,Master's,Self-Employed,135068,Average,794,6/23/2020
+5342,Mrs. Jamie Campbell,52,Albuquerque,AB-,PhD,Employed,-50975,Good,710,3/8/2020
+2348,Luke Burgess,22,Albuquerque,A-,Master's,Unemployed,0,Good,814,3/4/2021
+3626,Daniel Schmidt,49,Albuquerque,B+,PhD,Self-Employed,-102073,Poor,780,11/15/2022
+7611,Timothy Burns,15,Albuquerque,A-,High School,Freelance,25000,Excellent,720,6/28/2023
+4082,Christopher Bright,25,Albuquerque,B+,PhD,Student,152073,Good,710,1/21/2020
+8066,Kathryn Stewart,20,Albuquerque,O+,Master's,Retired,,Average,650,5/12/2022
+1317,Dr. Eileen Thompson,47,Albuquerque,A+,Bachelors,Self-Employed,,Poor,500,8/2/2021
+1619,Paul Henderson,88,Albuquerque,AB+,Associate,Unemployed,0,Excellent,710,5/15/2020
+2359,Peter Fitzgerald,27,Albuquerque,AB+,PhD,Employed,110000,Good,830,5/15/2020
+1010,Cathy Small,36,Albuquerque,O-,Master's,Retired,48000,Excellent,750,12/23/2023
+5803,Mr. Kenneth Moore,47,Albuquerque,A+,High School,Employed,30000,Poor,420,6/21/2022
+8460,Mary Hunter,1,Albuquerque,O-,Bachelors,Student,0,Excellent,710,1/3/2021
+8776,Joshua Oliver,58,Albuquerque,B+,PhD,Self-Employed,0,Poor,480,10/3/2023
+2863,Thomas Martinez,42,Albuquerque,B-,PhD,Unemployed,0,Excellent,710,8/18/2019
+4638,James Patterson,50,Albuquerque,A+,High School,Employed,40000,Good,720,11/3/2019
+8111,William Cooper,3,Albuquerque,O+,Bachelors,Student,0,Excellent,710,5/18/2023
+2691,Erin Ortega,1,Albuquerque,AB-,PhD,Self-Employed,60000,Poor,580,5/24/2023
+5225,Nicole Rodriguez,21,Albuquerque,AB+,Master's,Unemployed,0,Average,650,1/17/2020
+3438,David Anderson,19,Albuquerque,AB+,PhD,Retired,75000,Excellent,810,1/7/2021
+5900,Denise Torres,46,Albuquerque,AB+,Associate,Employed,50000,Good,780,10/14/2019
+9548,Cassandra Robinson,95,Albuquerque,B-,High School,Unemployed,0,Poor,710,12/19/2021
+5313,Nicole Lucero,24,Albuquerque,O-,Bachelors,Employed,20000,Excellent,700,3/12/2022
+5568,Pamela Fernandez,41,Albuquerque,B-,Master's,Self-Employed,1.00E+05,Average,690,1/17/2021
+4257,Christopher Lee,50,Albuquerque,B-,PhD,Student,0,Good,710,9/15/2021
+4464,Thomas Morse,51,Albuquerque,O+,PhD,Employed,120000,Excellent,830,1/27/2020
+3889,Mr. Eric Lane,18,Albuquerque,O+,Associate,Unemployed,0,Poor,550,6/24/2022
+9983,Katherine Smith,36,Albuquerque,O+,High School,Gig-Worker,35000,Average,620,6/9/2021
+1749,Paul Williams,18,Albuquerque,O+,Bachelors,Employed,80000,Good,750,8/23/2020
+2203,Lynn Martinez,27,Albuquerque,O+,Master's,Retired,55000,Excellent,790,10/12/2022
+2197,Christopher Chapman,8,Albuquerque,O+,PhD,Unemployed,0,Poor,710,12/1/2021
+7680,Chris Frye,43,Albuquerque,A-,Associate,Employed,45000,Average,680,5/4/2020
+7500,Kyle Bennett,22,Albuquerque,O+,High School,Student,15000,Good,710,9/9/2023
+3708,Brandon Collins,36,Albuquerque,O+,Bachelors,Self-Employed,110000,Excellent,820,7/19/2019
+2921,Michael Liu,64,Albuquerque,AB-,PhD,Unemployed,0,Poor,480,4/5/2024
+8578,Stephanie Kent,30,Albuquerque,A-,PhD,Employed,130000,Average,710,6/15/2019
+4208,Jesse Banks,2,Albuquerque,AB+,Associate,Unemployed,0,Good,710,10/29/2022
+3022,Peggy Lee,52,Albuquerque,A-,High School,Gig-Worker,28000,Poor,520,4/8/2022
+3496,Tamara Hernandez,39,Albuquerque,B-,Bachelors,Employed,90000,Excellent,770,8/17/2023
+7362,Mr. David Pierce Md,50,Albuquerque,A-,Master's,Retired,60000,Average,740,11/5/2023
+9842,Bethany Moore,49,Albuquerque,A+,PhD,Unemployed,0,Poor,710,4/9/2023
+8529,Michael Mills,45,Albuquerque,O-,Associate,Employed,50000,Good,690,9/21/2022
+8742,Kyle Wiley,42,Albuquerque,AB-,High School,Student,0,Excellent,710,1/21/2021
+9731,Jacqueline Jordan,30,Albuquerque,O+,Bachelors,Self-Employed,120000,Excellent,840,7/10/2020
+5461,Ashley Gutierrez,49,Albuquerque,AB+,PhD,Unemployed,0,Average,450,11/6/2019
+5083,Kim Scott,19,Albuquerque,A-,PhD,Employed,140000,Good,730,4/7/2024
+9892,Travis Carter,49,Albuquerque,A+,Associate,Unemployed,0,Poor,710,7/6/2022
+8709,Larry Rodgers,36,Albuquerque,B-,High School,Gig-Worker,32000,Average,600,8/3/2022
+9584,Nancy Glover,49,Albuquerque,A-,Bachelors,Employed,1.00E+05,Excellent,790,5/8/2020
+5845,Jessica King,43,Albuquerque,AB-,Master's,Retired,65000,Good,760,12/9/2019
+4072,Christopher Gonzalez,31,Albuquerque,B+,Master's,Student,0,Excellent,710,11/21/2019
+7680,John Hartman,0,Albuquerque,B-,PhD,Employed,90000,Good,800,1/7/2023
+9125,Michael Miller,0,Albuquerque,B+,Associate,Unemployed,0,Poor,710,2/6/2024
+1101,Erica Myers,23,Albuquerque,A+,High School,Employed,25000,Excellent,740,1/30/2020
+7798,Carol Patterson,30,Albuquerque,O+,Bachelors,Self-Employed,70000,Average,670,10/24/2022
+8801,Jose Lopez,32,Albuquerque,A-,PhD,Retired,40000,Good,710,1/9/2022
+8294,Kevin Simmons Jr.,51,Albuquerque,AB-,Associate,Gig-Worker,42000,Average,640,12/28/2023
+4047,Duane Haney,16,Albuquerque,AB-,High School,Employed,55000,Excellent,780,9/16/2021
+1368,Jonathan Yates,28,Albuquerque,AB-,Bachelors,Student,18000,Good,710,7/24/2023
+3959,John Thomas,35,Albuquerque,A+,Master's,Self-Employed,140000,Excellent,850,11/13/2021
+4867,Adrian Buckley,26,Albuquerque,A-,PhD,Unemployed,0,Poor,420,10/11/2023
+7397,April Santiago,18,Albuquerque,B-,PhD,Employed,1.00E+05,Average,750,1/30/2021
+3773,Diane Schultz,23,Albuquerque,B+,Associate,Unemployed,0,Good,710,11/21/2021
+4410,Timothy Myers,40,Albuquerque,B+,High School,Gig-Worker,30000,Poor,580,3/2/2024
+2110,Nicole Hughes,52,Albuquerque,O+,Bachelors,Employed,85000,Excellent,720,12/4/2020
+7403,Chad Moreno,19,Albuquerque,AB+,Master's,Retired,50000,Average,700,8/26/2020
+1847,Sean Jennings,19,Albuquerque,AB-,PhD,Unemployed,0,Poor,710,11/12/2023
+3333,Diane Branch,42,Albuquerque,O+,Associate,Employed,40000,Good,650,5/30/2020
+1449,Cindy Orozco,17,Albuquerque,B-,High School,Student,0,Excellent,710,5/12/2023
+4388,Patricia Medina,45,Albuquerque,AB+,Bachelors,Self-Employed,0,Poor,450,7/7/2022
+3952,Kayla Padilla,21,Albuquerque,B-,PhD,Unemployed,0,Average,400,9/24/2020
+2601,Juan Klein,42,Albuquerque,B-,PhD,Employed,110000,Good,770,8/19/2023
+5147,William Hill,42,Albuquerque,A+,Associate,Unemployed,0,Poor,710,5/16/2023
+1158,Carl Best,94,Albuquerque,B+,High School,Gig-Worker,38000,Average,610,8/22/2022
+4422,Tina Griffin,33,Albuquerque,B+,Bachelors,Employed,95000,Excellent,790,6/17/2022
+8731,Mr. Tyler Taylor Phd,33,Albuquerque,A+,Master's,Retired,55000,Good,730,11/5/2022
+6268,Taylor Howell Dds,57,Albuquerque,B+,PhD,Unemployed,0,Excellent,710,9/10/2021
+2194,Michael Martin,55,Albuquerque,A+,Associate,Unemployed,0,Poor,710,9/6/2022
+7418,Heather Miller,29,Albuquerque,A+,Master's,Self-Employed,120000,Good,810,4/17/2021
+9967,Catherine Gardner,53,Albuquerque,A-,PhD,Employed,15000,Excellent,690,8/19/2019
+3790,Anne Thompson,17,Albuquerque,O+,PhD,Gig-Worker,50000,Average,700,3/24/2024
+6185,Todd Cooper,16,Albuquerque,O+,Associate,Self-Employed,80000,Poor,590,12/10/2022
+2554,Phillip Lyons,23,Albuquerque,B-,Master's,Student,0,Excellent,710,9/14/2022
+7325,Mark Ford,42,Albuquerque,B+,PhD,Employed,90000,Good,800,10/18/2022
+8606,Marcus Zamora,25,Albuquerque,O+,Associate,Unemployed,0,Poor,710,11/13/2021
+7069,Katie Henry,26,Albuquerque,B+,High School,Employed,25000,Excellent,740,7/8/2022
+6543,William Morton,30,Albuquerque,A+,Bachelors,Self-Employed,70000,Average,670,6/25/2023
+6682,Katrina Martin,66,Albuquerque,A-,PhD,Retired,40000,Good,710,7/9/2019
+5228,Hunter Mckay,5,Albuquerque,A-,Associate,Gig-Worker,42000,Average,640,5/14/2021
+8865,Dwayne Davis,74,Albuquerque,O+,High School,Employed,55000,Excellent,780,1/15/2024
+7422,Sarah Caldwell,20,Albuquerque,A-,Bachelors,Student,18000,Good,710,9/30/2019
+9921,David Higgins,20,Albuquerque,B-,Master's,Self-Employed,140000,Excellent,850,3/5/2021
+2213,Bradley Combs,69,Albuquerque,AB-,PhD,Unemployed,0,Poor,420,5/14/2021
+9394,Christina Schmitt,37,Albuquerque,B+,PhD,Employed,1.00E+05,Average,750,6/8/2023
+2891,Colton Strong,30,Albuquerque,AB-,Associate,Unemployed,0,Good,710,5/13/2022
+6951,Mark Price,36,Albuquerque,B-,High School,Gig-Worker,30000,Poor,580,9/22/2022
+8767,Suzanne Schneider,59,Albuquerque,AB-,Bachelors,Employed,85000,Excellent,720,8/25/2023
+6332,Michael Hurley,33,Albuquerque,AB-,Master's,Retired,50000,Average,700,6/2/2019
+9106,Lindsey Lambert,2,Albuquerque,A+,PhD,Unemployed,0,Poor,710,11/19/2021
+8537,Rebecca Parsons,40,Albuquerque,O+,Associate,Employed,40000,Good,650,12/2/2019
+7594,Judy Johnson,20,Albuquerque,AB-,High School,Student,0,Excellent,710,8/21/2020
+1593,Tonya Campbell,36,Albuquerque,B+,Bachelors,Self-Employed,0,Poor,450,2/12/2021
+9873,James Ross,57,Albuquerque,A+,PhD,Unemployed,0,Average,400,1/13/2024
+2822,Sara Cook,55,Albuquerque,O-,PhD,Employed,110000,Good,770,12/26/2021
+5175,Anne Howell,49,Albuquerque,A-,Associate,Unemployed,0,Poor,710,8/22/2022
+7316,Renee Bailey,30,Albuquerque,B+,High School,Gig-Worker,38000,Average,610,7/3/2021
+8589,Jeffrey Turner,54,Albuquerque,O+,Bachelors,Employed,95000,Excellent,790,5/31/2020
+8045,Dr. Lauren Clark Dds,34,Albuquerque,B+,Master's,Retired,55000,Good,730,10/26/2020
+3385,Terry Thomas,26,Albuquerque,B-,Master's,Student,0,Excellent,710,6/3/2021
+5887,Jason Baker,1,Albuquerque,O-,PhD,Employed,150000,Good,820,10/24/2020
+7953,Jessica Gutierrez,45,Albuquerque,O+,Associate,Unemployed,0,Poor,710,8/27/2019
+6564,Courtney Hodges,27,Albuquerque,AB-,High School,Gig-Worker,22000,Average,540,11/30/2021
+5376,Anthony Reyes,1,Albuquerque,AB+,Bachelors,Self-Employed,80000,Excellent,760,10/15/2023
+4582,Leah Cross Dds,43,Albuquerque,AB+,PhD,Unemployed,0,Poor,380,3/17/2024
+3199,Paul Martinez,38,Albuquerque,B+,Associate,Employed,12000,Average,630,10/13/2019
+5943,Denise Rodriguez,19,Albuquerque,A-,High School,Employed,60000,Excellent,800,3/2/2020
+3973,Ashley Erickson,26,Albuquerque,AB-,Bachelors,Student,15000,Good,710,11/5/2019
+6217,Sean Cardenas,26,Albuquerque,B-,Master's,Self-Employed,1.00E+05,Average,680,2/7/2021
+3855,Alan Alvarez,38,Albuquerque,B+,PhD,Employed,150000,Excellent,880,10/25/2021
+1419,Jessica Phillips,28,Albuquerque,O-,High School,Unemployed,0,Poor,710,7/24/2022
+5507,Timothy Coleman,44,Albuquerque,AB+,Bachelors,Self-Employed,80000,Average,630,3/4/2020
+6601,Christina Woods,74,Albuquerque,B-,PhD,Student,20000,Good,710,8/1/2021
+6227,Melissa Scott,8,Albuquerque,AB+,Associate,Employed,30000,Excellent,760,1/24/2020
+4915,Gary Hopkins,33,Albuquerque,O+,Master's,Unemployed,0,Poor,710,7/30/2021
+4894,April Valencia,33,Albuquerque,A+,PhD,Gig-Worker,45000,Average,590,1/4/2024
+9638,Rita Archer,28,Albuquerque,O-,High School,Employed,60000,Excellent,810,1/5/2024
+3651,Kim Pena,27,Albuquerque,O-,Bachelors,Student,0,Good,710,8/11/2020
+7267,Jason Foley,14,Albuquerque,B+,PhD,Self-Employed,120000,Average,660,6/17/2022
+1180,Shaun Guzman,40,Albuquerque,AB-,Associate,Unemployed,0,Poor,710,4/2/2022
+5216,Matthew White,34,Albuquerque,AB+,PhD,Employed,130000,Good,740,6/3/2020
+1808,Alexis Wilson,32,Albuquerque,B+,Master's,Student,0,Excellent,710,8/16/2019
+7437,Jacqueline Marshall,59,Albuquerque,A+,PhD,Employed,90000,Good,800,2/22/2024
+3425,Robert Higgins,38,Albuquerque,AB-,Associate,Unemployed,0,Poor,710,5/6/2021
+7988,Sierra Morton,58,Albuquerque,B-,High School,Employed,25000,Excellent,740,10/27/2021
+7715,Natalie Stanton,36,Albuquerque,B+,Bachelors,Self-Employed,70000,Average,670,9/1/2020
+5540,Jessica Acevedo,56,Albuquerque,O+,PhD,Retired,40000,Good,710,5/26/2021
+6242,Jennifer Mcmillan,42,Albuquerque,A-,Associate,Gig-Worker,42000,Average,640,6/22/2022
+1949,Christopher Mcclain,31,Albuquerque,O-,High School,Employed,55000,Excellent,780,5/17/2023
+6700,Kevin Hicks,21,Albuquerque,AB+,Bachelors,Student,18000,Good,710,6/23/2021
+4055,Melinda Richards,15,Albuquerque,A-,Master's,Self-Employed,140000,Excellent,850,11/17/2023
+1453,Robyn Miranda,41,Albuquerque,A-,PhD,Unemployed,0,Poor,420,10/11/2020
+6430,Scott Castillo,20,Albuquerque,O+,PhD,Employed,1.00E+05,Average,750,8/10/2021
+9459,John Garcia,21,Albuquerque,A+,Associate,Unemployed,0,Good,710,8/29/2023
+5418,Michael Taylor,30,Albuquerque,O-,High School,Gig-Worker,30000,Poor,580,2/27/2020
+3596,Jeffrey Wood,22,Albuquerque,AB-,Bachelors,Employed,85000,Excellent,720,7/7/2021
+7208,Michael Smith,9,Albuquerque,AB-,Master's,Retired,50000,Average,700,6/3/2022
+8214,William Griffith,44,Albuquerque,B-,PhD,Unemployed,0,Poor,710,2/20/2020
+8998,Christina Lawrence,43,Albuquerque,AB-,Associate,Employed,40000,Good,650,2/5/2021
+8511,Jessica Holmes,30,Albuquerque,O-,High School,Student,0,Excellent,710,10/24/2020
+7082,Tracey Greene,0,Albuquerque,O-,Bachelors,Self-Employed,0,Poor,450,12/6/2023
+2122,Amanda Lopez,53,Albuquerque,O+,PhD,Unemployed,0,Average,400,12/21/2021
+5321,Laura Peters,65,Albuquerque,A-,PhD,Employed,110000,Good,770,9/3/2023
+1432,Lauren Anderson,30,Albuquerque,O-,Associate,Unemployed,0,Poor,710,10/18/2020
+4938,William Campos,26,Albuquerque,B+,High School,Gig-Worker,38000,Average,610,7/7/2021
+5840,Jessica Gonzales,53,Albuquerque,O+,Bachelors,Employed,95000,Excellent,790,8/28/2023
+4861,Bruce Gonzales,0,Albuquerque,O+,Master's,Retired,55000,Good,730,11/17/2019
+4802,Robert Walsh,53,Albuquerque,B+,PhD,Employed,150000,Excellent,880,11/22/2020
+6239,Lisa Lewis,44,Albuquerque,O-,High School,Unemployed,0,Poor,710,11/13/2021
+1265,William Ruiz,46,Albuquerque,B+,Bachelors,Self-Employed,80000,Average,630,2/13/2022
+3685,Steven Baldwin,22,Albuquerque,O+,PhD,Student,20000,Good,710,5/16/2019
+5236,Megan Colon,27,Albuquerque,AB+,Associate,Employed,30000,Excellent,760,8/4/2021
+3342,Kimberly Brooks,53,Albuquerque,B-,Master's,Unemployed,0,Poor,710,1/3/2020
+3933,Edward Smith Jr.,27,Albuquerque,A+,PhD,Gig-Worker,45000,Average,590,9/13/2022
+1451,Allison Cordova,24,Albuquerque,O-,High School,Employed,60000,Excellent,810,12/19/2020
+4304,Linda Thomas,33,Albuquerque,AB+,Bachelors,Student,0,Good,710,3/31/2023
+5277,Parker Moore,90,Albuquerque,B-,PhD,Self-Employed,120000,Average,660,5/8/2020
+4772,Tanya Soto,23,Albuquerque,AB+,Associate,Unemployed,0,Poor,710,7/31/2023
+5934,Michael Jordan,47,Albuquerque,AB-,PhD,Employed,130000,Good,740,1/9/2022
+2277,Christina Martin,48,Albuquerque,A-,Bachelors,Employed,80000,Good,720,12/16/2023
+3118,Tracy Burke,30,Albuquerque,A+,Associate,Unemployed,0,Excellent,710,12/5/2020
+1520,David Spence,37,Albuquerque,AB+,PhD,Self-Employed,120000,Poor,550,11/11/2021
+4952,Joseph Foster,23,Albuquerque,O+,High School,Employed,45000,Excellent,800,9/11/2019
+9341,Nicholas Hall,21,Albuquerque,A-,Master's,Retired,50000,Average,680,12/15/2020
+9377,Christina Macias,22,Albuquerque,O+,PhD,Student,0,Good,710,12/8/2022
+3788,Scott Jones,34,Albuquerque,B+,PhD,Unemployed,32000,Poor,400,7/15/2021
+9065,James Anderson,21,Albuquerque,AB+,Associate,Employed,65000,Excellent,750,6/16/2022
+4823,Shaun Long,48,Albuquerque,A+,High School,Self-Employed,30000,Excellent,600,2/9/2024
+4452,Kristina Mora,21,Albuquerque,AB+,PhD,Employed,1.00E+05,Average,790,3/4/2024
+1025,Joshua Richmond,45,Albuquerque,A+,PhD,Retired,0,Average,537,2/11/2022
+7029,Mark Lawrence,43,Albuquerque,O-,Bachelors,Unemployed,0,Excellent,710,2/8/2022
+2178,John Ellis,25,Albuquerque,A-,High School,Unemployed,0,Good,457,6/15/2023
+8585,Mrs. Tiffany Dennis,36,Albuquerque,O-,PhD,Unemployed,0,Excellent,710,10/11/2021
+7027,Cynthia Huang,30,Albuquerque,O+,Bachelors,Retired,0,Excellent,710,12/12/2021
+7973,Melissa Lawrence,32,Albuquerque,O+,PhD,Student,0,Excellent,710,7/9/2023
+6591,Steven Goodwin,43,Albuquerque,A-,Master's,Self-Employed,135068,Average,794,9/8/2020
+6819,Mary Hunt,30,Albuquerque,AB-,PhD,Employed,-50975,Good,710,8/31/2020
+8499,Eric Rivera,31,Albuquerque,AB+,Master's,Unemployed,0,Good,814,4/10/2024
+2523,Alan Taylor,17,Albuquerque,B-,PhD,Self-Employed,-102073,Poor,780,8/10/2021
+5088,Michael Campbell,23,Albuquerque,O-,High School,Freelance,25000,Excellent,720,1/25/2022
+7336,Ashley Webb Dds,31,Albuquerque,AB-,PhD,Student,15000,Good,710,9/12/2023
+6405,Shannon Brown,62,Albuquerque,B-,Master's,Retired,35000,Average,650,8/5/2020
+4861,Lawrence Shepherd,57,Albuquerque,A-,Bachelors,Self-Employed,150000,Poor,500,5/7/2022
+3650,Scott Wade,18,Albuquerque,A+,Associate,Unemployed,0,Excellent,710,2/13/2022
+3193,Heather Curtis,64,Albuquerque,AB+,PhD,Employed,110000,Good,830,3/3/2024
+5167,Kevin Jefferson,30,Albuquerque,B+,Master's,Retired,48000,Excellent,750,3/14/2020
+3332,David Griffin,30,Albuquerque,AB-,High School,Employed,30000,Poor,420,2/7/2024
+6731,Grant George,30,Albuquerque,O+,Bachelors,Student,0,Excellent,710,7/21/2019
+9131,Eric Stewart,42,Albuquerque,O+,PhD,Self-Employed,0,Poor,480,4/14/2023
+4815,Robert Pittman,30,Albuquerque,B-,PhD,Unemployed,0,Excellent,710,1/17/2024
+7765,Sydney Cross,60,Albuquerque,O+,High School,Employed,40000,Good,720,6/25/2019
+1415,David Crawford,17,Albuquerque,AB-,Bachelors,Student,0,Excellent,710,5/20/2021
+9558,Leah Drake,49,Albuquerque,B-,PhD,Self-Employed,60000,Poor,580,4/3/2020
+5996,Diana Hall,49,Albuquerque,B-,Master's,Unemployed,0,Average,650,1/21/2020
+1077,Justin Le,29,Albuquerque,AB-,PhD,Retired,75000,Excellent,810,12/2/2021
+7356,Karen Price Dds,14,Albuquerque,AB+,Associate,Employed,50000,Good,780,5/28/2021
+5481,Carolyn Steele,21,Albuquerque,AB+,High School,Unemployed,0,Poor,710,3/23/2020
+8099,Lauren Ramirez,0,Albuquerque,A+,Bachelors,Employed,20000,Excellent,700,8/6/2022
+2014,Jacob Newman,54,Albuquerque,A+,Master's,Self-Employed,1.00E+05,Average,690,3/9/2024
+1157,Katherine Barnett,30,Albuquerque,AB-,PhD,Student,0,Good,710,3/15/2022
+7085,Jodi Martinez,62,Albuquerque,AB+,PhD,Employed,120000,Excellent,830,8/8/2020
+8629,Andrea Allen,49,Albuquerque,AB+,Associate,Unemployed,0,Poor,550,6/9/2019
+4307,Noah Baxter,60,Albuquerque,AB-,High School,Gig-Worker,35000,Average,620,9/7/2019
+7750,Hector Maxwell,30,Albuquerque,A-,Bachelors,Employed,80000,Good,750,2/14/2021
+6079,Holly Walters,31,Albuquerque,A-,Master's,Retired,55000,Excellent,790,11/10/2019
+4495,Joseph Smith,69,Albuquerque,O+,PhD,Unemployed,0,Poor,710,4/16/2023
+1233,Albert Thomas,30,Albuquerque,B+,Associate,Employed,45000,Average,680,4/25/2020
+1935,Jeffery Williamson,1,Albuquerque,A-,High School,Student,15000,Good,710,8/21/2021
+2576,Jonathan Meadows,37,Albuquerque,O+,Bachelors,Self-Employed,110000,Excellent,820,1/14/2021
+7911,Kristin Bennett,44,Albuquerque,AB+,PhD,Unemployed,0,Poor,480,9/12/2020
+2629,Michael Smith,4,Albuquerque,AB+,PhD,Employed,130000,Average,710,3/27/2020
+1370,Joseph Carpenter,30,Albuquerque,A-,Associate,Unemployed,0,Good,710,7/26/2019
+5110,Larry Mayer,34,Albuquerque,A+,High School,Gig-Worker,28000,Poor,520,12/7/2023
+9922,Clayton Peterson,29,Albuquerque,B-,Bachelors,Employed,90000,Excellent,770,6/11/2021
+3038,Donald Alvarez,33,Albuquerque,O-,Master's,Retired,60000,Average,740,2/11/2022
+6548,Sarah Lee,21,Albuquerque,O+,PhD,Unemployed,0,Poor,710,9/12/2020
+9624,John Perez,55,Albuquerque,AB-,Associate,Employed,50000,Good,690,5/25/2020
+6222,Timothy Jacobs,18,Albuquerque,O+,High School,Student,0,Excellent,710,9/25/2023
+8712,Nathan Small,25,Albuquerque,B+,Bachelors,Self-Employed,120000,Excellent,840,6/22/2022
+4980,Dustin Wright,43,Albuquerque,O+,PhD,Unemployed,0,Average,450,1/12/2020
+9268,Jacob Williams,27,Albuquerque,B+,PhD,Employed,140000,Good,730,7/29/2022
+1389,William Mccoy,30,Albuquerque,A-,Associate,Unemployed,0,Poor,710,2/20/2023
+9126,Dr. Matthew Wilkins,32,Albuquerque,A-,High School,Gig-Worker,32000,Average,600,7/14/2021
+7061,Joseph Gonzalez,24,Albuquerque,O+,Bachelors,Employed,1.00E+05,Excellent,790,4/17/2024
+2730,Robert Fields,38,Albuquerque,A+,Master's,Retired,65000,Good,760,2/4/2021
+1890,Lawrence Miranda,1,Albuquerque,O-,Master's,Student,0,Excellent,710,9/2/2021
+8941,Mitchell Carroll,24,Albuquerque,B-,PhD,Employed,90000,Good,800,9/10/2022
+9624,Cody Nichols,30,Albuquerque,A+,Associate,Unemployed,0,Poor,710,11/25/2022
+1111,Kelli Thompson,58,Albuquerque,O-,High School,Employed,25000,Excellent,740,8/4/2023
+2174,Danielle Lopez,37,Albuquerque,O-,Bachelors,Self-Employed,70000,Average,670,11/20/2020
+6880,Melinda Jones,26,Albuquerque,AB-,PhD,Retired,40000,Good,710,10/23/2019
+1648,Kristin Smith,31,Albuquerque,AB+,Associate,Gig-Worker,42000,Average,640,10/17/2020
+4157,Stephanie Reynolds,31,Albuquerque,O+,High School,Employed,55000,Excellent,780,12/27/2022
+8083,Anna Norman,31,Albuquerque,B+,Bachelors,Student,18000,Good,710,6/16/2023
+5775,Maria Hayes,52,Albuquerque,A+,Master's,Self-Employed,140000,Excellent,850,11/6/2023
+4632,Tonya Riley Md,30,Albuquerque,A+,PhD,Unemployed,0,Poor,420,12/26/2023
+5795,Regina Dunn,33,Albuquerque,B-,PhD,Employed,1.00E+05,Average,750,2/10/2023
+5053,Michael Jacobs,25,Albuquerque,O+,Associate,Unemployed,0,Good,710,7/1/2020
+6774,Jason Moore Md,33,Albuquerque,AB+,High School,Gig-Worker,30000,Poor,580,9/21/2023
+9175,Eric Hall,28,Albuquerque,B+,Bachelors,Employed,85000,Excellent,720,11/25/2020
+8859,Malik Martinez,31,Albuquerque,A+,Master's,Retired,50000,Average,700,7/10/2020
+6515,Lisa Kennedy,31,Albuquerque,B-,PhD,Unemployed,0,Poor,710,12/24/2022
+4850,Kristin Ochoa,46,Albuquerque,B+,Associate,Employed,40000,Good,650,10/5/2019
+5985,Joseph Zuniga,23,Albuquerque,O-,High School,Student,0,Excellent,710,3/13/2022
+5503,Kyle Tyler,52,Albuquerque,AB+,Bachelors,Self-Employed,0,Poor,450,5/15/2020
+2970,Eric Duncan,26,Albuquerque,AB-,PhD,Unemployed,0,Average,400,12/2/2020
+1229,Rachel Romero,22,Albuquerque,AB+,PhD,Employed,110000,Good,770,1/8/2024
+2799,Michael Anderson,30,Albuquerque,AB-,Associate,Unemployed,0,Poor,710,8/16/2019
+1810,Emily Clark,49,Albuquerque,AB+,High School,Gig-Worker,38000,Average,610,3/23/2023
+7123,Daniel Mckinney,33,Albuquerque,O+,Bachelors,Employed,95000,Excellent,790,1/20/2020
+1553,Bonnie Williams,53,Albuquerque,B-,Master's,Retired,55000,Good,730,1/23/2024
+2624,Marcus Henry,35,Albuquerque,B-,PhD,Unemployed,0,Excellent,710,12/20/2022
+2982,Katherine Hart,46,Albuquerque,A+,Associate,Unemployed,0,Poor,710,8/10/2021
+9941,Michelle Pierce,27,Albuquerque,O-,Master's,Self-Employed,120000,Good,810,11/23/2020
+1355,Julie Mejia,20,Albuquerque,A-,PhD,Employed,15000,Excellent,690,2/10/2020
+2879,Cameron Sanchez,70,Albuquerque,A+,PhD,Gig-Worker,50000,Average,700,6/4/2019
+9692,David Vincent,59,Albuquerque,O+,Associate,Self-Employed,80000,Poor,590,9/24/2023
+6487,Melissa Gomez,34,Albuquerque,B-,Master's,Student,0,Excellent,710,8/16/2021
+7364,Amanda Ponce,24,Albuquerque,AB-,PhD,Employed,90000,Good,800,7/6/2020
+3769,Carol Gomez,24,Albuquerque,B-,Associate,Unemployed,0,Poor,710,12/7/2022
+8820,Christopher Palmer,30,Albuquerque,AB-,High School,Employed,25000,Excellent,740,12/29/2023
+3496,Paul Hahn,10,Albuquerque,O-,Bachelors,Self-Employed,70000,Average,670,2/16/2023
+3935,Ashley Moore,39,Albuquerque,B+,PhD,Retired,40000,Good,710,5/12/2022
+5563,Linda Hamilton,11,Albuquerque,O+,Associate,Gig-Worker,42000,Average,640,9/20/2023
+1082,Robin Cox,23,Albuquerque,O-,High School,Employed,55000,Excellent,780,1/11/2020
+2104,Anthony Hall,39,Albuquerque,O-,Bachelors,Student,18000,Good,710,3/30/2022
+9669,Robert Smith,47,Albuquerque,AB+,Master's,Self-Employed,140000,Excellent,850,5/11/2020
+1017,Derek Carter,30,Albuquerque,O+,PhD,Unemployed,0,Poor,420,1/20/2022
+1316,Heather may,22,Albuquerque,A-,PhD,Employed,1.00E+05,Average,750,11/13/2019
+4311,Peter Gonzalez,31,Albuquerque,AB-,Associate,Unemployed,0,Good,710,2/3/2021
+8672,Chris Fletcher,63,Albuquerque,AB+,High School,Gig-Worker,30000,Poor,580,10/24/2020
+1170,Shirley Wilkinson,33,Albuquerque,O+,Bachelors,Employed,85000,Excellent,720,10/3/2022
+5695,Courtney Farrell,9,Albuquerque,B+,Master's,Retired,50000,Average,700,12/24/2023
+2981,Andrea Willis,6,Albuquerque,AB-,PhD,Unemployed,0,Poor,710,11/18/2023
+2793,Chad Huff,5,Albuquerque,AB+,Associate,Employed,40000,Good,650,3/12/2024
+8606,Devin Gilbert,32,Albuquerque,A+,High School,Student,0,Excellent,710,4/12/2023
+7385,Donald Davis,42,Albuquerque,O+,Bachelors,Self-Employed,0,Poor,450,6/16/2021
+2702,Kurt Murphy,55,Albuquerque,AB-,PhD,Unemployed,0,Average,400,11/24/2021
+1822,Sylvia West,54,Albuquerque,B-,PhD,Employed,110000,Good,770,7/6/2020
+7933,Donald Vazquez,30,Albuquerque,AB-,Associate,Unemployed,0,Poor,710,6/26/2022
+7490,Rebecca Rush,30,Albuquerque,AB-,High School,Gig-Worker,38000,Average,610,7/21/2020
+5510,Christopher Curry,39,Albuquerque,A-,Bachelors,Employed,95000,Excellent,790,11/4/2019
+9962,Michael Edwards,20,Albuquerque,AB+,Master's,Retired,55000,Good,730,11/1/2021
+2928,Christopher Arnold,39,Albuquerque,B+,Master's,Student,0,Excellent,710,11/17/2019
+1607,Rachel Hickman,30,Albuquerque,B+,PhD,Employed,150000,Good,820,12/19/2022
+7156,Ashley Gray,30,Albuquerque,A+,Associate,Unemployed,0,Poor,710,10/6/2020
+3693,Elizabeth Perez,30,Albuquerque,AB-,High School,Gig-Worker,22000,Average,540,1/16/2022
+6778,Angel Randolph Dds,43,Albuquerque,A+,Bachelors,Self-Employed,80000,Excellent,760,7/6/2023
+3150,Mark Saunders,50,Albuquerque,O+,PhD,Unemployed,0,Poor,380,6/12/2021
+5135,Christian Lang,26,Albuquerque,AB+,Associate,Employed,12000,Average,630,8/27/2019
+6811,Pam Perkins,58,Albuquerque,AB-,High School,Employed,60000,Excellent,800,5/17/2022
+7528,Kayla Greene,30,Albuquerque,AB+,Bachelors,Student,15000,Good,710,10/2/2020
+2726,Michael David,21,Albuquerque,O+,Master's,Self-Employed,1.00E+05,Average,680,8/20/2021
+4625,Alexis Mccall,30,Albuquerque,O-,PhD,Employed,150000,Excellent,880,11/5/2019
+4040,Mr. Brandon Perez Md,42,Albuquerque,O-,High School,Unemployed,0,Poor,710,2/6/2024
+8766,Dr. Jeffrey Cole,30,Albuquerque,O-,Bachelors,Self-Employed,80000,Average,630,2/7/2024
+8080,Matthew Brown,30,Albuquerque,O+,PhD,Student,20000,Good,710,6/22/2023
+6684,Robert Sexton,30,Albuquerque,A-,Associate,Employed,30000,Excellent,760,11/19/2020
+4469,Ashley Vasquez,30,Albuquerque,O+,Master's,Unemployed,0,Poor,710,11/24/2021
+8154,Michelle Flynn,66,Albuquerque,O-,PhD,Gig-Worker,45000,Average,590,7/26/2019
+3111,Steven Tran,44,Albuquerque,AB+,High School,Employed,60000,Excellent,810,7/5/2022
+3284,James Miller,32,Albuquerque,O+,Bachelors,Student,0,Good,710,8/29/2019
+7448,Bonnie Hill,30,Albuquerque,B+,PhD,Self-Employed,120000,Average,660,5/2/2024
+9761,Anthony Davis,30,Albuquerque,B+,Associate,Unemployed,0,Poor,710,5/26/2020
+3574,David Sheppard,27,Albuquerque,B+,PhD,Employed,130000,Good,740,3/20/2024
+4566,Jodi Lang,25,Albuquerque,O+,Master's,Student,0,Excellent,710,3/27/2024
+2313,Vanessa Taylor,30,Albuquerque,O+,PhD,Employed,90000,Good,800,3/22/2021
+4469,Wayne Lynch,30,Albuquerque,O-,Associate,Unemployed,0,Poor,710,10/3/2020
+5570,Yesenia Mcfarland,30,Albuquerque,B+,High School,Employed,25000,Excellent,740,5/17/2023
+8187,Kenneth Wilson,30,Albuquerque,A+,Bachelors,Self-Employed,70000,Average,670,8/12/2022
+9913,Jillian Marks,30,Albuquerque,A-,PhD,Retired,40000,Good,710,6/20/2020
+8401,Michelle Cruz Dds,39,Albuquerque,AB+,Associate,Gig-Worker,42000,Average,640,4/20/2023
+6964,Clarence Ford Jr.,24,Albuquerque,A-,High School,Employed,55000,Excellent,780,10/28/2019
+5901,Donald Kane,30,Albuquerque,O+,Bachelors,Student,18000,Good,710,8/31/2021
+2966,Zachary Larsen,19,Albuquerque,A+,Master's,Self-Employed,140000,Excellent,850,7/14/2021
+3097,Sheryl Martinez,19,Albuquerque,A-,PhD,Unemployed,0,Poor,420,1/21/2022
+9317,Mr. Nathan Avila,30,Albuquerque,O+,PhD,Employed,1.00E+05,Average,750,9/16/2019
+9802,Anne Anthony,30,Albuquerque,AB+,Associate,Unemployed,0,Good,710,1/20/2023
+7644,Holly Lambert,30,Albuquerque,A+,High School,Gig-Worker,30000,Poor,580,1/4/2020
+1360,James Rasmussen,59,Albuquerque,AB-,Bachelors,Employed,85000,Excellent,720,3/3/2024
+9648,Sarah Cannon,59,Albuquerque,AB+,Master's,Retired,50000,Average,700,7/6/2019
+6766,Melinda Tanner,30,Albuquerque,AB-,PhD,Unemployed,0,Poor,710,12/1/2022
+3429,Laurie Joseph,30,Albuquerque,B-,Associate,Employed,40000,Good,650,5/10/2020
+6329,Stephanie Hunter,30,Albuquerque,AB+,High School,Student,0,Excellent,710,3/10/2024
+7508,Gina Davis,73,Albuquerque,AB+,Bachelors,Self-Employed,0,Poor,450,1/14/2020
+9444,Christopher Shea Jr.,17,Albuquerque,B-,PhD,Unemployed,0,Average,400,6/7/2020
+6813,Mrs. Sabrina Ball,41,Albuquerque,AB-,PhD,Employed,110000,Good,770,11/11/2020
+4978,Joyce Mccormick,30,Albuquerque,O+,Associate,Unemployed,0,Poor,710,5/7/2021
+4140,Devin Bell,30,Albuquerque,B-,High School,Gig-Worker,38000,Average,610,7/13/2021
+6908,Allison Ramirez,34,Albuquerque,B+,Bachelors,Employed,95000,Excellent,790,3/25/2024
+8041,Laura Romero,30,Albuquerque,O+,Master's,Retired,55000,Good,730,3/25/2020
+6292,Toni Faulkner,56,Albuquerque,AB-,PhD,Employed,150000,Excellent,880,5/14/2023
+9148,Patricia Turner,30,Albuquerque,AB+,High School,Unemployed,0,Poor,710,11/19/2022
+1772,Nathan Ray,30,Albuquerque,AB+,Bachelors,Self-Employed,80000,Average,630,3/10/2021
+6796,Ryan Sanchez,30,Albuquerque,A-,PhD,Student,20000,Good,710,11/15/2020
+6786,Thomas Dennis,30,Albuquerque,A+,Associate,Employed,30000,Excellent,760,1/28/2024
+9904,Mr. Timothy Flores,25,Albuquerque,A-,Master's,Unemployed,0,Poor,710,7/7/2020
+1423,Wendy Levine,30,Albuquerque,AB-,PhD,Gig-Worker,45000,Average,590,1/22/2023
+4534,Nicole Gonzalez,20,Albuquerque,A-,High School,Employed,60000,Excellent,810,5/10/2020
+1613,Michael Ellison,23,Albuquerque,O+,Bachelors,Student,0,Good,710,7/9/2021
+3292,Brandon Davis,30,Albuquerque,O-,PhD,Self-Employed,120000,Average,660,6/11/2020
+6204,Vanessa Garcia,21,Albuquerque,AB-,Associate,Unemployed,0,Poor,710,4/21/2020
+7951,Autumn Peck,40,Albuquerque,A+,PhD,Employed,130000,Good,740,10/6/2019
+6372,Nathaniel Reynolds,30,Albuquerque,O-,Bachelors,Employed,80000,Good,720,7/11/2020
+8327,Joyce Moody,30,Albuquerque,AB-,Associate,Unemployed,0,Excellent,710,4/3/2022
+1794,Mark Fuentes,19,Albuquerque,A-,PhD,Self-Employed,120000,Poor,550,1/21/2020
+3204,Brett Ferguson,30,Albuquerque,A+,High School,Employed,45000,Excellent,800,12/16/2022
+2816,Travis Simmons,30,Albuquerque,B-,Master's,Retired,50000,Average,680,7/20/2022
+5270,Jeremy Frye,22,Albuquerque,B-,PhD,Student,0,Good,710,7/25/2021
+2431,Cameron Miller,30,Albuquerque,O+,PhD,Unemployed,32000,Poor,400,7/19/2023
+1658,William Williams Dds,30,Albuquerque,B-,Associate,Employed,65000,Excellent,750,5/22/2023
+6642,Tracie Wright,31,Albuquerque,O-,High School,Self-Employed,30000,Excellent,600,7/8/2020
+1846,David Reyes,39,Albuquerque,A-,PhD,Employed,1.00E+05,Average,790,12/27/2022
+8396,Paige King,29,Atlanta,B-,PhD,Retired,0,Average,537,6/21/2019
+3169,James Garcia,29,Atlanta,O+,Bachelors,Unemployed,0,Excellent,710,1/1/2021
+9731,Lori Harvey,36,Atlanta,AB-,High School,Unemployed,0,Good,457,9/7/2022
+8614,Amy Wang,26,Atlanta,B+,PhD,Unemployed,0,Excellent,710,6/9/2022
+2207,Jordan Vargas,75,Atlanta,B+,Bachelors,Retired,0,Excellent,710,11/1/2023
+3229,Gordon Kelly,22,Atlanta,O-,PhD,Student,0,Excellent,710,8/6/2023
+4943,Nathan Scott,40,Atlanta,AB+,Master's,Self-Employed,135068,Average,794,7/30/2022
+8024,Lisa Green,1,Atlanta,AB-,PhD,Employed,-50975,Good,710,2/4/2021
+6574,Amy Combs,25,Atlanta,A+,Master's,Unemployed,0,Good,814,11/26/2021
+5165,Kelly Sanford,25,Atlanta,B-,PhD,Self-Employed,-102073,Poor,780,7/2/2020
+5875,Mrs. Jessica Black Md,46,Atlanta,A-,High School,Freelance,25000,Excellent,720,8/9/2021
+6249,Robert Gould,66,Atlanta,O+,PhD,Student,15000,Good,710,1/18/2024
+6565,Christine Vargas,20,Atlanta,O-,Master's,Retired,35000,Average,650,1/17/2023
+8959,Barbara Diaz,55,Atlanta,A-,Bachelors,Self-Employed,150000,Poor,500,3/27/2024
+3636,John Washington,35,Atlanta,O+,Associate,Unemployed,0,Excellent,710,1/10/2023
+2297,Devin Stewart,35,Atlanta,B+,PhD,Employed,110000,Good,830,7/14/2019
+5066,James Roberts,23,Atlanta,A+,Master's,Retired,48000,Excellent,750,5/18/2020
+4420,James Yates,28,Atlanta,B-,High School,Employed,30000,Poor,420,6/15/2022
+1571,Peter Nichols,29,Atlanta,B+,Bachelors,Student,0,Excellent,710,3/27/2020
+6621,Karen Price,25,Atlanta,O-,PhD,Self-Employed,0,Poor,480,2/20/2020
+5234,Christopher Jones,29,Atlanta,O-,PhD,Unemployed,0,Excellent,710,6/16/2020
+3199,Larry Leonard,22,Atlanta,B-,High School,Employed,40000,Good,720,6/6/2019
+3003,Michelle Zhang,16,Atlanta,B-,Bachelors,Student,0,Excellent,710,1/18/2022
+8004,Kristen Flores,41,Atlanta,A+,PhD,Self-Employed,60000,Poor,580,1/11/2021
+9883,Matthew Bell,23,Atlanta,O+,Master's,Unemployed,0,Average,650,2/4/2021
+9291,Bradley Miranda,2,Atlanta,B-,PhD,Retired,75000,Excellent,810,5/30/2022
+2940,Christopher Moore,29,Atlanta,O+,Associate,Employed,50000,Good,780,12/19/2021
+8244,Dan Pineda,35,Atlanta,B+,High School,Unemployed,0,Poor,710,7/20/2021
+7424,Mariah Smith,58,Atlanta,AB-,Bachelors,Employed,20000,Excellent,700,12/27/2022
+5235,Sabrina Cook,35,Atlanta,O-,Master's,Self-Employed,1.00E+05,Average,690,9/5/2022
+1789,Melissa Hoffman,22,Atlanta,B+,PhD,Student,0,Good,710,7/27/2022
+5809,Joseph Martin,19,Atlanta,A+,PhD,Employed,120000,Excellent,830,5/3/2024
+8217,Melissa Sims,40,Atlanta,O+,Associate,Unemployed,0,Poor,550,8/28/2019
+9530,Sarah Evans,23,Atlanta,B-,High School,Gig-Worker,35000,Average,620,4/21/2024
+3655,Maria Anderson,32,Atlanta,O+,Bachelors,Employed,80000,Good,750,3/12/2024
+8972,Maria Johnston,22,Atlanta,A+,Master's,Retired,55000,Excellent,790,9/29/2019
+4451,James Cole,17,Atlanta,AB+,PhD,Unemployed,0,Poor,710,8/19/2022
+7969,Isaiah Holt,26,Atlanta,A-,Associate,Employed,45000,Average,680,10/18/2021
+4174,Joseph Gonzales,34,Atlanta,A-,High School,Student,15000,Good,710,4/7/2023
+4313,Jennifer Camacho,29,Atlanta,AB-,Bachelors,Self-Employed,110000,Excellent,820,10/28/2019
+4452,Hector Jones,25,Atlanta,AB+,PhD,Unemployed,0,Poor,480,6/29/2020
+1312,Jessica Jones Dds,63,Atlanta,AB+,PhD,Employed,130000,Average,710,9/21/2022
+9886,Isabella Martin,55,Atlanta,A-,Associate,Unemployed,0,Good,710,8/10/2023
+2941,Daniel Palmer,47,Atlanta,B+,High School,Gig-Worker,28000,Poor,520,5/16/2022
+4819,Stephanie Benson,35,Atlanta,O+,Bachelors,Employed,90000,Excellent,770,8/25/2020
+9766,Ashley Williams,31,Atlanta,B-,Master's,Retired,60000,Average,740,10/4/2023
+8333,Gregory Nguyen,20,Atlanta,O+,PhD,Unemployed,0,Poor,710,4/28/2022
+7342,Joe Smith,35,Atlanta,O+,Associate,Employed,50000,Good,690,5/29/2019
+5537,Lisa Watts,24,Atlanta,AB+,High School,Student,0,Excellent,710,3/9/2024
+1405,Alexander Garcia,35,Atlanta,B+,Bachelors,Self-Employed,120000,Excellent,840,1/7/2020
+5554,Elizabeth Perkins,1,Atlanta,B+,PhD,Unemployed,0,Average,450,11/10/2019
+4500,Laura Wells,59,Atlanta,O+,PhD,Employed,140000,Good,730,1/24/2023
+3323,Robert Mccormick,23,Atlanta,AB+,Associate,Unemployed,0,Poor,710,7/28/2019
+2889,Michael Yu,17,Atlanta,AB-,High School,Gig-Worker,32000,Average,600,7/18/2022
+9266,Jacob Graham,17,Atlanta,A+,Bachelors,Employed,1.00E+05,Excellent,790,6/7/2020
+7757,Andrea Kennedy,27,Atlanta,B-,Master's,Retired,65000,Good,760,12/7/2020
+5177,Stacey Anderson,19,Atlanta,AB-,Master's,Student,0,Excellent,710,4/10/2020
+7574,Jason Marsh,18,Atlanta,A-,PhD,Employed,90000,Good,800,7/12/2023
+8713,Tiffany Ferguson,56,Atlanta,A+,Associate,Unemployed,0,Poor,710,9/10/2022
+2878,Mark Hernandez,40,Atlanta,AB-,High School,Employed,25000,Excellent,740,4/15/2021
+6540,Keith Henry,22,Atlanta,O-,Bachelors,Self-Employed,70000,Average,670,8/20/2020
+8399,Michelle Wright,43,Atlanta,A+,PhD,Retired,40000,Good,710,8/14/2020
+7837,Troy Davis,24,Atlanta,A+,Associate,Gig-Worker,42000,Average,640,7/17/2021
+3505,Misty Burton,46,Atlanta,B+,High School,Employed,55000,Excellent,780,1/27/2023
+1901,Robert Robinson,68,Atlanta,O-,Bachelors,Student,18000,Good,710,9/4/2020
+3977,Christina Calderon,24,Atlanta,AB+,Master's,Self-Employed,140000,Excellent,850,2/8/2020
+3852,John Graham,22,Atlanta,O+,PhD,Unemployed,0,Poor,420,7/1/2019
+2836,Michael Parker,33,Atlanta,O+,PhD,Employed,1.00E+05,Average,750,1/1/2024
+1368,William Evans,47,Atlanta,AB+,Associate,Unemployed,0,Good,710,3/10/2021
+9848,Valerie Hodges,27,Atlanta,AB+,High School,Gig-Worker,30000,Poor,580,9/19/2019
+9942,Brenda Beck,28,Atlanta,B+,Bachelors,Employed,85000,Excellent,720,2/24/2023
+7996,Christine Davis,22,Atlanta,O+,Master's,Retired,50000,Average,700,3/30/2022
+2775,Kevin Daniel,26,Atlanta,A+,PhD,Unemployed,0,Poor,710,8/30/2019
+6897,Brittney Wagner,36,Atlanta,O+,Associate,Employed,40000,Good,650,12/21/2019
+7112,Cristian Buchanan,9,Atlanta,A-,High School,Student,0,Excellent,710,8/31/2019
+3052,Michael Brady,29,Atlanta,O+,Bachelors,Self-Employed,0,Poor,450,3/30/2022
+3239,Jordan Leon,41,Atlanta,O+,PhD,Unemployed,0,Average,400,8/11/2023
+9169,Katelyn Cunningham,54,Atlanta,B+,PhD,Employed,110000,Good,770,10/29/2021
+9929,Krystal Mendoza,48,Atlanta,A-,Associate,Unemployed,0,Poor,710,9/18/2020
+5715,Alex Rodriguez,21,Atlanta,AB+,High School,Gig-Worker,38000,Average,610,2/24/2021
+4573,Geoffrey Barker,20,Atlanta,AB-,Bachelors,Employed,95000,Excellent,790,7/7/2023
+4107,Alec Mitchell,43,Atlanta,O+,Master's,Retired,55000,Good,730,6/26/2023
+8135,Jason Jordan,23,Atlanta,O-,PhD,Unemployed,0,Excellent,710,11/12/2021
+2270,Philip Reyes,23,Atlanta,O+,Associate,Unemployed,0,Poor,710,10/23/2021
+2594,Aaron Bradshaw,21,Atlanta,O+,Master's,Self-Employed,120000,Good,810,11/30/2019
+9042,Erica Ford,51,Atlanta,AB+,PhD,Employed,15000,Excellent,690,3/19/2023
+3669,Dr. Katie Barrett Dvm,34,Atlanta,O-,PhD,Gig-Worker,50000,Average,700,2/2/2022
+1425,Jacob Young,19,Atlanta,AB+,Associate,Self-Employed,80000,Poor,590,9/25/2023
+4721,Amy Ramos,23,Atlanta,B+,Master's,Student,0,Excellent,710,10/28/2021
+7636,Patrick Morales,31,Atlanta,AB-,PhD,Employed,90000,Good,800,6/16/2020
+1666,Sophia Conway,49,Atlanta,O+,Associate,Unemployed,0,Poor,710,10/7/2021
+9309,James Moore,58,Atlanta,A-,High School,Employed,25000,Excellent,740,4/29/2021
+1313,Christopher Cochran,20,Atlanta,AB-,Bachelors,Self-Employed,70000,Average,670,5/12/2019
+4730,Robert Carter,29,Atlanta,B-,PhD,Retired,40000,Good,710,9/12/2021
+7949,Morgan Nguyen,27,Atlanta,B+,Associate,Gig-Worker,42000,Average,640,1/25/2021
+1815,Nathan Montoya,27,Atlanta,O-,High School,Employed,55000,Excellent,780,5/22/2020
+6573,Joe Berry Phd,18,Atlanta,B-,Bachelors,Student,18000,Good,710,6/20/2022
+9454,Daniel Ortiz,47,Atlanta,AB-,Master's,Self-Employed,140000,Excellent,850,11/16/2020
+3253,Matthew Clark,44,Atlanta,B-,PhD,Unemployed,0,Poor,420,10/9/2020
+5489,Jacqueline Hardy,47,Atlanta,O+,PhD,Employed,1.00E+05,Average,750,12/12/2023
+9739,Emily Joseph,52,Atlanta,AB-,Associate,Unemployed,0,Good,710,6/14/2022
+9757,Sarah Hicks,35,Atlanta,A-,High School,Gig-Worker,30000,Poor,580,2/23/2023
+7749,Briana Ross,33,Atlanta,AB+,Bachelors,Employed,85000,Excellent,720,4/25/2024
+4261,Mary Mccullough,38,Atlanta,A+,Master's,Retired,50000,Average,700,6/8/2022
+1943,Brian Osborne,51,Atlanta,B-,PhD,Unemployed,0,Poor,710,12/7/2023
+4932,Susan Walters,20,Atlanta,AB-,Associate,Employed,40000,Good,650,11/3/2020
+7782,Catherine Harvey,39,Atlanta,AB+,High School,Student,0,Excellent,710,10/3/2023
+2096,Cory Pierce,33,Atlanta,B-,Bachelors,Self-Employed,0,Poor,450,6/11/2022
+2840,Jesus Jordan,49,Atlanta,O-,PhD,Unemployed,0,Average,400,7/3/2021
+8100,Ann Duncan,58,Atlanta,A-,PhD,Employed,110000,Good,770,3/19/2024
+3532,Sarah Porter,40,Atlanta,AB-,Associate,Unemployed,0,Poor,710,1/11/2024
+8331,Jacqueline Dean,18,Atlanta,A+,High School,Gig-Worker,38000,Average,610,6/26/2021
+3738,Anne Lam,18,Atlanta,O+,Bachelors,Employed,95000,Excellent,790,1/19/2024
+5680,Jennifer Gomez,42,Atlanta,O-,Master's,Retired,55000,Good,730,12/15/2020
+1567,David Curtis,50,Atlanta,B+,Master's,Student,0,Excellent,710,5/14/2021
+7438,Joshua Johnson,15,Atlanta,B+,PhD,Employed,150000,Good,820,7/10/2021
+7840,Jeremy Bowen,18,Atlanta,B-,Associate,Unemployed,0,Poor,710,7/25/2020
+2371,Dennis Clarke,44,Atlanta,AB+,High School,Gig-Worker,22000,Average,540,9/17/2019
+3132,Jennifer Spence,28,Atlanta,A+,Bachelors,Self-Employed,80000,Excellent,760,5/14/2019
+4878,Billy Fitzgerald,78,Atlanta,B+,PhD,Unemployed,0,Poor,380,5/31/2020
+7860,Kristen James,20,Atlanta,AB+,Associate,Employed,12000,Average,630,3/27/2020
+5502,Caitlin Bender,17,Atlanta,O-,High School,Employed,60000,Excellent,800,12/23/2019
+2211,Brenda Fuller,30,Atlanta,A-,Bachelors,Student,15000,Good,710,2/8/2024
+2093,Cassandra Rice,47,Atlanta,A-,Master's,Self-Employed,1.00E+05,Average,680,9/23/2023
+6331,Sergio Sanchez,35,Atlanta,AB+,PhD,Employed,150000,Excellent,880,5/14/2020
+8357,Kevin Stein,25,Atlanta,B+,High School,Unemployed,0,Poor,710,2/11/2020
+5897,Maureen Grant Md,40,Atlanta,AB+,Bachelors,Self-Employed,80000,Average,630,9/13/2021
+8563,Samantha Gutierrez,38,Atlanta,B+,PhD,Student,20000,Good,710,10/24/2020
+7203,George Woodward,24,Atlanta,B+,Associate,Employed,30000,Excellent,760,12/29/2020
+2797,Shane Tate,17,Atlanta,O+,Master's,Unemployed,0,Poor,710,3/19/2024
+8065,Kerry Hawkins,17,Atlanta,O-,PhD,Gig-Worker,45000,Average,590,12/13/2021
+3214,Marissa Mora,18,Atlanta,O-,High School,Employed,60000,Excellent,810,5/17/2022
+5046,Ricky Meyer,31,Atlanta,A-,Bachelors,Student,0,Good,710,12/1/2022
+9693,Edward Jones Jr.,57,Atlanta,O-,PhD,Self-Employed,120000,Average,660,3/16/2020
+4101,Heather Melendez,26,Atlanta,AB+,Associate,Unemployed,0,Poor,710,10/20/2020
+4443,Jessica Macias,46,Atlanta,AB-,PhD,Employed,130000,Good,740,1/5/2024
+7445,Jamie Leach,23,Atlanta,B-,Master's,Student,0,Excellent,710,8/17/2023
+3178,Matthew Simmons,45,Atlanta,B-,PhD,Employed,90000,Good,800,3/31/2023
+7166,Sheila Baxter,25,Atlanta,AB-,Associate,Unemployed,0,Poor,710,11/21/2022
+4432,Dave Parrish,30,Atlanta,B+,High School,Employed,25000,Excellent,740,8/24/2020
+5530,Bryan Stewart,33,Atlanta,O-,Bachelors,Self-Employed,70000,Average,670,2/12/2022
+8308,James Bell,26,Atlanta,A-,PhD,Retired,40000,Good,710,8/15/2023
+4320,Joshua Love,17,Atlanta,O-,Associate,Gig-Worker,42000,Average,640,1/13/2023
+9692,Robert Clark,4,Atlanta,B-,High School,Employed,55000,Excellent,780,4/28/2020
+8609,Marisa Golden,26,Atlanta,AB+,Bachelors,Student,18000,Good,710,10/21/2022
+7505,Nancy Hamilton,22,Atlanta,O+,Master's,Self-Employed,140000,Excellent,850,12/15/2022
+2028,Bryan Bowers,101,Atlanta,O+,PhD,Unemployed,0,Poor,420,9/1/2020
+3524,Nicole Martin,36,Atlanta,AB-,PhD,Employed,1.00E+05,Average,750,11/18/2019
+9839,William Harmon,30,Atlanta,O+,Associate,Unemployed,0,Good,710,8/22/2022
+7013,Tom Brown,24,Atlanta,A+,High School,Gig-Worker,30000,Poor,580,8/1/2020
+1154,Cynthia Nelson,43,Atlanta,A+,Bachelors,Employed,85000,Excellent,720,1/18/2024
+6027,Todd Gross,44,Atlanta,B-,Master's,Retired,50000,Average,700,3/17/2020
+5599,Stephanie Chung,21,Atlanta,AB+,PhD,Unemployed,0,Poor,710,8/15/2022
+4126,Kayla Perez,62,Atlanta,AB+,Associate,Employed,40000,Good,650,5/15/2023
+8584,Paul Martinez,51,Atlanta,A+,High School,Student,0,Excellent,710,6/27/2019
+7114,Joshua Nelson,24,Atlanta,B+,Bachelors,Self-Employed,0,Poor,450,10/29/2023
+9767,Jake Copeland,29,Atlanta,AB-,PhD,Unemployed,0,Average,400,1/9/2024
+2752,Maria Gardner,24,Atlanta,B+,PhD,Employed,110000,Good,770,8/23/2020
+5794,Janet Roberts Dds,51,Atlanta,AB+,Associate,Unemployed,0,Poor,710,1/7/2020
+5123,Peter Ramsey,35,Atlanta,O-,High School,Gig-Worker,38000,Average,610,10/25/2019
+7286,Ashley Farmer,17,Atlanta,AB+,Bachelors,Employed,95000,Excellent,790,9/20/2023
+8188,Katherine Hale,25,Atlanta,B+,Master's,Retired,55000,Good,730,1/12/2020
+3094,Gary Bowen,37,Atlanta,B+,PhD,Employed,150000,Excellent,880,6/4/2019
+6518,Laura Ryan,36,Atlanta,AB-,High School,Unemployed,0,Poor,710,12/14/2021
+2318,Timothy Lopez,25,Atlanta,A-,Bachelors,Self-Employed,80000,Average,630,5/30/2023
+1679,Anthony Guzman,42,Atlanta,AB-,PhD,Student,20000,Good,710,8/26/2019
+7068,Michael Sharp,44,Atlanta,O-,Associate,Employed,30000,Excellent,760,11/16/2019
+9183,David Carroll,17,Atlanta,A-,Master's,Unemployed,0,Poor,710,4/23/2022
+1904,Connor Barton,20,Atlanta,B+,PhD,Gig-Worker,45000,Average,590,2/20/2020
+7891,Angela Scott,56,Atlanta,B+,High School,Employed,60000,Excellent,810,10/19/2022
+9358,David Ortiz,24,Atlanta,O-,Bachelors,Student,0,Good,710,2/5/2022
+3688,Patrick Pierce,25,Atlanta,B+,PhD,Self-Employed,120000,Average,660,8/1/2019
+1062,Keith Johnson,31,Atlanta,O-,Associate,Unemployed,0,Poor,710,6/19/2021
+4159,Antonio Smith,29,Atlanta,O-,PhD,Employed,130000,Good,740,6/28/2020
+5539,John Taylor,42,Atlanta,A-,Bachelors,Employed,80000,Good,720,10/6/2019
+3272,Barbara Stewart,25,Atlanta,A-,Associate,Unemployed,0,Excellent,710,7/17/2022
+5926,Larry Tanner,43,Atlanta,O+,PhD,Self-Employed,120000,Poor,550,5/22/2021
+3076,Mallory Diaz,16,Atlanta,O+,High School,Employed,45000,Excellent,800,8/16/2022
+5439,John Williams,21,Atlanta,A+,Master's,Retired,50000,Average,680,3/31/2021
+3678,Peter Miller,33,Atlanta,O-,PhD,Student,0,Good,710,9/6/2021
+2090,Ryan Butler,29,Atlanta,AB-,PhD,Unemployed,32000,Poor,400,8/26/2023
+2390,Samantha Lowery,32,Atlanta,A+,Associate,Employed,65000,Excellent,750,11/27/2019
+8243,Tiffany Lee,48,Atlanta,A+,High School,Self-Employed,30000,Excellent,600,3/7/2023
+2760,Samantha Willis,1,Atlanta,A-,PhD,Employed,1.00E+05,Average,790,10/3/2022
+7572,Pamela Brown,35,Atlanta,O-,PhD,Retired,0,Average,537,1/10/2023
+4277,Carla Walker,17,Atlanta,O-,Bachelors,Unemployed,0,Excellent,710,4/12/2020
+3462,Mary Gonzales,29,Atlanta,B-,High School,Unemployed,0,Good,457,11/20/2020
+4775,Shelley Fleming,24,Atlanta,AB-,PhD,Unemployed,0,Excellent,710,4/26/2024
+4145,Mark Blake,22,Atlanta,A+,Bachelors,Retired,0,Excellent,710,6/29/2023
+6098,Scott King,29,Atlanta,O+,PhD,Student,0,Excellent,710,1/11/2020
+8360,Jessica Davis,44,Atlanta,O-,Master's,Self-Employed,135068,Average,794,6/5/2022
+9659,Anthony Odom,28,Atlanta,O+,PhD,Employed,-50975,Good,710,1/28/2024
+5367,Charles Brown,20,Atlanta,B-,Master's,Unemployed,0,Good,814,11/6/2021
+6955,Rachel Davis,26,Atlanta,B-,PhD,Self-Employed,-102073,Poor,780,7/21/2021
+7681,Sandra Mccall,48,Atlanta,A-,High School,Freelance,25000,Excellent,720,11/23/2019
+5814,Nicole Francis,27,Atlanta,AB-,PhD,Student,15000,Good,710,5/30/2019
+1120,Steven Smith,21,Atlanta,AB-,Master's,Retired,35000,Average,650,3/23/2024
+4098,Karen Johnson,33,Atlanta,O+,Bachelors,Self-Employed,150000,Poor,500,6/23/2019
+9137,Anna Rogers,23,Atlanta,O-,Associate,Unemployed,0,Excellent,710,1/30/2022
+8886,Priscilla Decker,50,Atlanta,B-,PhD,Employed,110000,Good,830,11/12/2022
+6670,Trevor Wright,59,Atlanta,O+,Master's,Retired,48000,Excellent,750,12/22/2020
+6412,William Tucker,44,Atlanta,A-,High School,Employed,30000,Poor,420,5/22/2022
+1140,Jessica Keller,25,Atlanta,B+,Bachelors,Student,0,Excellent,710,3/27/2021
+2182,William Henry,24,Atlanta,AB-,PhD,Self-Employed,0,Poor,480,6/22/2022
+7953,Robin Clarke,18,Atlanta,O+,PhD,Unemployed,0,Excellent,710,7/15/2022
+3571,Jessica Garza,48,Atlanta,A+,High School,Employed,40000,Good,720,6/6/2022
+8983,Jamie Salazar,21,Atlanta,O-,Bachelors,Student,0,Excellent,710,12/29/2020
+2708,Steven Vaughan,46,Atlanta,A+,PhD,Self-Employed,60000,Poor,580,5/23/2020
+2707,Michael Contreras,36,Atlanta,A-,Master's,Unemployed,0,Average,650,7/25/2022
+6377,Allen Roberts,49,Atlanta,A-,PhD,Retired,75000,Excellent,810,4/1/2021
+9861,Amy Powell,38,Atlanta,B+,Associate,Employed,50000,Good,780,7/20/2020
+1718,Kenneth Smith,32,Atlanta,A+,High School,Unemployed,0,Poor,710,2/28/2020
+3149,Matthew West,38,Atlanta,AB+,Bachelors,Employed,20000,Excellent,700,8/30/2023
+9339,Erik Montoya,30,Atlanta,AB-,Master's,Self-Employed,1.00E+05,Average,690,7/27/2020
+2578,Austin Lewis,27,Atlanta,AB-,PhD,Student,0,Good,710,3/28/2021
+3226,Kenneth Thompson,15,Atlanta,A-,PhD,Employed,120000,Excellent,830,5/8/2022
+6203,Amanda Durham,17,Atlanta,O+,Associate,Unemployed,0,Poor,550,6/16/2021
+1852,Stephen Hudson,34,Atlanta,AB+,High School,Gig-Worker,35000,Average,620,10/31/2023
+6626,Cassandra Velazquez,46,Atlanta,B+,Bachelors,Employed,80000,Good,750,4/23/2022
+6196,Susan Pena,44,Atlanta,B+,Master's,Retired,55000,Excellent,790,12/9/2021
+5748,Anthony Perkins,32,Atlanta,O-,PhD,Unemployed,0,Poor,710,1/10/2024
+5878,Katrina Lopez,29,Atlanta,O+,Associate,Employed,45000,Average,680,11/17/2019
+8282,Brian Foster,47,Atlanta,AB+,High School,Student,15000,Good,710,1/5/2022
+8941,Jason Thompson,29,Atlanta,B+,Bachelors,Self-Employed,110000,Excellent,820,1/15/2024
+8556,David Ayala,19,Atlanta,O+,PhD,Unemployed,0,Poor,480,11/17/2022
+2280,Jared Yoder,19,Atlanta,O+,PhD,Employed,130000,Average,710,8/2/2021
+3773,Gregory Cannon,38,Atlanta,A+,Associate,Unemployed,0,Good,710,4/20/2020
+9541,Lisa Anderson,47,Atlanta,O-,High School,Gig-Worker,28000,Poor,520,6/28/2023
+2443,Elizabeth Shields,2,Atlanta,O+,Bachelors,Employed,90000,Excellent,770,4/6/2022
+2457,Patricia Kim,24,Atlanta,AB+,Master's,Retired,60000,Average,740,3/31/2021
+5972,Jessica Soto,55,Atlanta,AB+,PhD,Unemployed,0,Poor,710,3/7/2020
+4706,Jenny Reynolds,34,Atlanta,B-,Associate,Employed,50000,Good,690,6/3/2020
+5964,Shannon Barrett,24,Atlanta,B-,High School,Student,0,Excellent,710,8/31/2021
+7744,Terri Perry,27,Atlanta,AB+,Bachelors,Self-Employed,120000,Excellent,840,9/22/2022
+4928,Joseph Madden,19,Atlanta,B+,PhD,Unemployed,0,Average,450,7/2/2022
+5050,Rebecca Hogan,32,Atlanta,O+,PhD,Employed,140000,Good,730,6/18/2019
+1919,Kelly Walker,38,Atlanta,B-,Associate,Unemployed,0,Poor,710,7/19/2019
+5729,Julia Mueller,30,Atlanta,A-,High School,Gig-Worker,32000,Average,600,1/6/2022
+5602,Kayla Moore,29,Atlanta,AB-,Bachelors,Employed,1.00E+05,Excellent,790,2/8/2022
+1563,Kaitlyn Smith,60,Atlanta,AB-,Master's,Retired,65000,Good,760,12/9/2022
+8720,Daniel Kemp,49,Atlanta,O+,Master's,Student,0,Excellent,710,6/14/2020
+6786,Laura Myers,49,Atlanta,B+,PhD,Employed,90000,Good,800,3/12/2021
+5074,Carol Reed,57,Atlanta,AB+,Associate,Unemployed,0,Poor,710,12/27/2022
+7530,Jessica Carter,31,Atlanta,A-,High School,Employed,25000,Excellent,740,12/8/2019
+7388,Vanessa Schaefer,44,Atlanta,A-,Bachelors,Self-Employed,70000,Average,670,6/19/2023
+3259,Miguel Gomez,49,Atlanta,B+,PhD,Retired,40000,Good,710,5/10/2019
+9274,Linda Cardenas,1,Atlanta,A-,Associate,Gig-Worker,42000,Average,640,6/11/2021
+5486,Annette James,58,Atlanta,B-,High School,Employed,55000,Excellent,780,10/27/2019
+2237,Susan Hurley,23,Atlanta,B+,Bachelors,Student,18000,Good,710,8/27/2022
+8418,Carolyn Wade,24,Atlanta,A+,Master's,Self-Employed,140000,Excellent,850,8/8/2019
+8130,Angela Deleon,28,Atlanta,A-,PhD,Unemployed,0,Poor,420,2/12/2023
+2177,Carolyn Cooper,16,Atlanta,A+,PhD,Employed,1.00E+05,Average,750,5/4/2021
+3650,Rebecca Harris,34,Atlanta,O+,Associate,Unemployed,0,Good,710,7/11/2021
+2202,Gary Curtis,13,Atlanta,A+,High School,Gig-Worker,30000,Poor,580,2/10/2021
+9691,Ryan Liu,57,Atlanta,AB+,Bachelors,Employed,85000,Excellent,720,10/16/2021
+1442,Dennis Morrow,28,Atlanta,B+,Master's,Retired,50000,Average,700,10/3/2019
+4965,Jennifer Cooper,20,Atlanta,A+,PhD,Unemployed,0,Poor,710,4/26/2020
+5195,Jacob Lopez,24,Atlanta,B-,Associate,Employed,40000,Good,650,9/13/2019
+2341,Carol Mcclain,24,Atlanta,B-,High School,Student,0,Excellent,710,1/20/2022
+9950,Michael Richardson,32,Atlanta,B+,Bachelors,Self-Employed,0,Poor,450,10/14/2023
+9894,Mark Nguyen,20,Atlanta,A+,PhD,Unemployed,0,Average,400,11/23/2019
+3088,Eric Cook,31,Atlanta,B-,PhD,Employed,110000,Good,770,12/5/2023
+2546,Kristen Stephens,26,Atlanta,B+,Associate,Unemployed,0,Poor,710,2/1/2021
+8805,Dana Walton,43,Atlanta,A-,High School,Gig-Worker,38000,Average,610,6/30/2022
+2469,Scott Arnold,26,Atlanta,B-,Bachelors,Employed,95000,Excellent,790,11/9/2023
+9776,Megan Wheeler,25,Atlanta,B+,Master's,Retired,55000,Good,730,7/30/2020
+9416,Aaron Cox,21,Atlanta,O+,PhD,Unemployed,0,Excellent,710,4/10/2022
+3001,Cassandra Martinez,29,Atlanta,A-,Associate,Unemployed,0,Poor,710,1/2/2020
+9549,Shawn Brown,34,Atlanta,B-,Master's,Self-Employed,120000,Good,810,11/10/2023
+1858,Sandra Williamson,30,Atlanta,AB-,PhD,Employed,15000,Excellent,690,2/14/2021
+6146,Jennifer Stephens,26,Atlanta,B-,PhD,Gig-Worker,50000,Average,700,7/16/2022
+2436,Stephanie Rodriguez,55,Atlanta,O+,Associate,Self-Employed,80000,Poor,590,5/15/2023
+9671,Caroline Mcintyre,36,Atlanta,AB+,Master's,Student,0,Excellent,710,4/30/2020
+2167,Mr. Cameron Robinson,32,Atlanta,AB+,PhD,Employed,90000,Good,800,1/12/2021
+5450,Tammy Pineda,40,Atlanta,O-,Associate,Unemployed,0,Poor,710,5/23/2019
+1724,Natalie Anderson,18,Atlanta,A+,High School,Employed,25000,Excellent,740,4/23/2023
+4486,Jasmine Rodriguez,39,Atlanta,A-,Bachelors,Self-Employed,70000,Average,670,12/7/2022
+9331,Debra Mckee,35,Atlanta,A-,PhD,Retired,40000,Good,710,10/25/2020
+7582,Sandra Greene,15,Atlanta,B-,Associate,Gig-Worker,42000,Average,640,4/8/2021
+7373,Crystal Morris,31,Atlanta,B-,High School,Employed,55000,Excellent,780,9/9/2020
+9536,Jason Parker,38,Atlanta,AB+,Bachelors,Student,18000,Good,710,12/6/2019
+8489,Roy Jones,46,Atlanta,AB-,Master's,Self-Employed,140000,Excellent,850,2/16/2023
+9764,Richard Anderson,27,Atlanta,O-,PhD,Unemployed,0,Poor,420,9/12/2023
+7298,Jennifer Foster,21,Atlanta,A+,PhD,Employed,1.00E+05,Average,750,11/21/2019
+1178,Debbie Wilson,48,Atlanta,B-,Associate,Unemployed,0,Good,710,7/14/2019
+8104,Travis Flores,35,Atlanta,AB+,High School,Gig-Worker,30000,Poor,580,10/3/2019
+7929,Emily Young,25,Atlanta,O-,Bachelors,Employed,85000,Excellent,720,7/4/2019
+5655,Sandy Hall,20,Atlanta,AB+,Master's,Retired,50000,Average,700,5/26/2019
+6784,Madison Wright,24,Atlanta,A+,PhD,Unemployed,0,Poor,710,12/12/2021
+6153,Amy Mann,77,Atlanta,AB-,Associate,Employed,40000,Good,650,5/22/2021
+5740,Jason Steele,39,Atlanta,AB-,High School,Student,0,Excellent,710,9/3/2020
+6730,Pamela Middleton,37,Atlanta,B-,Bachelors,Self-Employed,0,Poor,450,3/30/2022
+9862,Lisa Jackson,44,Atlanta,B+,PhD,Unemployed,0,Average,400,12/20/2019
+2690,Samantha Patel,29,Atlanta,A+,PhD,Employed,110000,Good,770,1/21/2022
+5703,Herbert Rodriguez,43,Atlanta,A+,Associate,Unemployed,0,Poor,710,5/19/2020
+1465,Olivia Powell,66,Atlanta,A+,High School,Gig-Worker,38000,Average,610,2/20/2024
+4315,Samantha Perkins,21,Atlanta,AB-,Bachelors,Employed,95000,Excellent,790,8/31/2023
+7394,Michael Potts,38,Atlanta,A+,Master's,Retired,55000,Good,730,1/19/2023
+7982,Kerry Hernandez,19,Atlanta,O-,Master's,Student,0,Excellent,710,11/20/2023
+5434,Joshua Reyes,60,Atlanta,AB+,PhD,Employed,150000,Good,820,7/28/2021
+7807,Jennifer Ortega,29,Atlanta,A-,Associate,Unemployed,0,Poor,710,4/4/2023
+5088,Brittany Braun,19,Atlanta,B-,High School,Gig-Worker,22000,Average,540,8/11/2020
+3860,Daniel Chen,68,Atlanta,B+,Bachelors,Self-Employed,80000,Excellent,760,1/28/2020
+5602,Erica Hart,25,Atlanta,AB+,PhD,Unemployed,0,Poor,380,1/7/2020
+7653,Alicia Scott,25,Atlanta,O-,Associate,Employed,12000,Average,630,4/20/2020
+9923,Amanda Aguirre,21,Atlanta,AB+,High School,Employed,60000,Excellent,800,3/18/2020
+9352,Mark Hicks,50,Atlanta,AB-,Bachelors,Student,15000,Good,710,6/18/2020
+4325,Timothy Davis,51,Atlanta,O-,Master's,Self-Employed,1.00E+05,Average,680,7/15/2023
+1452,Lonnie Dominguez,30,Atlanta,A-,PhD,Employed,150000,Excellent,880,10/2/2023
+5655,Kimberly Hale,24,Atlanta,B-,High School,Unemployed,0,Poor,710,1/13/2021
+6539,Dana Williamson,30,Atlanta,A+,Bachelors,Self-Employed,80000,Average,630,5/16/2022
+5692,Mr. George Brown Jr.,46,Atlanta,AB-,PhD,Student,20000,Good,710,10/22/2019
+9406,Allen Camacho,30,Atlanta,A+,Associate,Employed,30000,Excellent,760,8/9/2019
+1858,Nathan Woods,40,Atlanta,O-,Master's,Unemployed,0,Poor,710,12/30/2023
+6099,Catherine Smith,39,Atlanta,AB+,PhD,Gig-Worker,45000,Average,590,7/11/2022
+2818,Jerry Lee,22,Atlanta,AB+,High School,Employed,60000,Excellent,810,9/19/2020
+3493,Alexander Coleman,50,Atlanta,B+,Bachelors,Student,0,Good,710,9/6/2019
+7278,David Jensen,25,Atlanta,O-,PhD,Self-Employed,120000,Average,660,11/22/2019
+8012,Deborah Evans,33,Atlanta,B-,Associate,Unemployed,0,Poor,710,7/22/2020
+3266,Alexandria Colon,19,Atlanta,B+,PhD,Employed,130000,Good,740,3/1/2022
+6378,Samuel Hanson,28,Atlanta,B-,Master's,Student,0,Excellent,710,3/1/2023
+7691,Bryan Phillips,27,Atlanta,B+,PhD,Employed,90000,Good,800,4/22/2021
+7379,Nathan Wiley,23,Atlanta,A+,Associate,Unemployed,0,Poor,710,9/23/2020
+9262,Alisha Murphy,35,Atlanta,A+,High School,Employed,25000,Excellent,740,1/8/2023
+9459,Amanda Lucero,32,Atlanta,AB-,Bachelors,Self-Employed,70000,Average,670,8/17/2022
+1192,Sheila Sellers,33,Atlanta,AB+,PhD,Retired,40000,Good,710,6/15/2021
+6165,Susan Chan,24,Atlanta,AB+,Associate,Gig-Worker,42000,Average,640,3/1/2024
+3708,Angel Mitchell,26,Atlanta,AB+,High School,Employed,55000,Excellent,780,12/11/2023
+3834,Darlene Cohen,45,Atlanta,B+,Bachelors,Student,18000,Good,710,5/4/2022
+7960,Kristy Oneill,26,Atlanta,A-,Master's,Self-Employed,140000,Excellent,850,12/1/2021
+9810,Sherri Garcia,46,Atlanta,B+,PhD,Unemployed,0,Poor,420,9/21/2021
+4700,Michael Weber,44,Atlanta,B-,PhD,Employed,1.00E+05,Average,750,3/20/2020
+4564,Beth Schwartz,32,Atlanta,AB-,Associate,Unemployed,0,Good,710,3/29/2024
+9933,Cynthia Clarke,26,Atlanta,AB-,High School,Gig-Worker,30000,Poor,580,3/12/2024
+8360,Mark Giles,25,Atlanta,A-,Bachelors,Employed,85000,Excellent,720,3/21/2022
+6591,Tamara Beltran,29,Atlanta,A+,Master's,Retired,50000,Average,700,7/23/2020
+5772,Joseph Gutierrez,32,Atlanta,A+,PhD,Unemployed,0,Poor,710,3/10/2024
+9289,Jamie Jimenez,58,Atlanta,A-,Associate,Employed,40000,Good,650,3/15/2020
+8253,Charles Murphy,23,Atlanta,A+,High School,Student,0,Excellent,710,5/10/2021
+4533,Carlos Lopez,19,Atlanta,O+,Bachelors,Self-Employed,0,Poor,450,12/29/2020
+7361,Johnny Irwin,19,Atlanta,B-,PhD,Unemployed,0,Average,400,3/23/2020
+1311,Scott Werner,28,Atlanta,O-,PhD,Employed,110000,Good,770,7/13/2023
+2433,Terri Stewart,16,Atlanta,AB-,Associate,Unemployed,0,Poor,710,7/20/2023
+7318,David Davis,47,Atlanta,B+,High School,Gig-Worker,38000,Average,610,2/14/2020
+7695,Stephen Harris,33,Atlanta,B-,Bachelors,Employed,95000,Excellent,790,5/28/2023
+3248,Bridget Adams,36,Atlanta,B-,Master's,Retired,55000,Good,730,6/12/2022
+6902,Michael Morton,22,Atlanta,A+,PhD,Employed,150000,Excellent,880,12/12/2023
+7401,Michelle Liu,27,Atlanta,B-,High School,Unemployed,0,Poor,710,11/6/2023
+5536,Regina Bright,22,Atlanta,AB-,Bachelors,Self-Employed,80000,Average,630,5/16/2023
+3818,Samuel Decker,33,Atlanta,O-,PhD,Student,20000,Good,710,10/12/2022
+8382,Paul Wright,30,Atlanta,AB+,Associate,Employed,30000,Excellent,760,12/30/2023
+2770,Brian Olson,32,Atlanta,B+,Master's,Unemployed,0,Poor,710,2/26/2024
+1952,Tracey Harrison,62,Atlanta,B+,PhD,Gig-Worker,45000,Average,590,11/7/2021
+3994,Erika Johnson,17,Atlanta,B+,High School,Employed,60000,Excellent,810,2/3/2020
+2842,Peter Cunningham,57,Atlanta,B+,Bachelors,Student,0,Good,710,7/5/2019
+9413,Sierra White,26,Atlanta,O-,PhD,Self-Employed,120000,Average,660,11/13/2021
+6230,Eddie Russo Dvm,33,Atlanta,B+,Associate,Unemployed,0,Poor,710,8/15/2019
+5794,Yvette Turner,32,Atlanta,O+,PhD,Employed,130000,Good,740,7/19/2023
+7134,James Charles,32,Atlanta,A-,Bachelors,Employed,80000,Good,720,4/6/2023
+1068,Alexis Allen,46,Atlanta,AB+,Associate,Unemployed,0,Excellent,710,10/8/2019
+6592,Stephanie Martin,38,Atlanta,A+,PhD,Self-Employed,120000,Poor,550,8/10/2020
+7341,Shelby Anderson,47,Atlanta,A+,High School,Employed,45000,Excellent,800,9/26/2019
+4410,Abigail Farmer,64,Atlanta,O+,Master's,Retired,50000,Average,680,2/11/2021
+1074,Christina Miller,3,Atlanta,O+,PhD,Student,0,Good,710,9/5/2019
+7082,Matthew Wyatt,39,Atlanta,B+,PhD,Unemployed,32000,Poor,400,3/1/2021
+5541,David Montoya,38,Atlanta,A-,Associate,Employed,65000,Excellent,750,4/19/2024
+1498,Eric Park,50,Atlanta,AB+,High School,Self-Employed,30000,Excellent,600,4/27/2023
+9257,Lori Trevino,28,Atlanta,O+,PhD,Employed,1.00E+05,Average,790,7/6/2022
+5480,Dwayne Castillo,39,Atlanta,O-,PhD,Retired,0,Average,537,10/31/2020
+4757,Kristine Mccall,26,Atlanta,B-,Bachelors,Unemployed,0,Excellent,710,9/8/2023
+9987,Joseph Sellers,21,Atlanta,O-,High School,Unemployed,0,Good,457,11/20/2022
+1212,Dr. Donald Anderson,32,Atlanta,O-,PhD,Unemployed,0,Excellent,710,7/4/2020
+9000,Victoria Williams,92,Atlanta,B+,Bachelors,Retired,0,Excellent,710,6/24/2023
+6047,Anna Jones,69,Atlanta,O-,PhD,Student,0,Excellent,710,10/6/2020
+4178,Mr. Robert Davis,19,Atlanta,B+,Master's,Self-Employed,135068,Average,794,3/16/2023
+3008,Jeffrey Hall,27,Atlanta,O-,PhD,Employed,-50975,Good,710,9/16/2019
+4471,Terry Graves,25,Atlanta,O-,Master's,Unemployed,0,Good,814,4/10/2021
+1822,Jerome Morales,48,Atlanta,B-,PhD,Self-Employed,-102073,Poor,780,7/21/2019
+4298,Keith Rodriguez,21,Atlanta,A+,High School,Freelance,25000,Excellent,720,12/14/2021
+7493,Tamara Davenport,31,Atlanta,O-,PhD,Student,15000,Good,710,9/19/2023
+2336,Jonathan Simon,52,Atlanta,A-,Master's,Retired,35000,Average,650,1/27/2024
+1161,Holly Armstrong,33,Atlanta,O-,Bachelors,Self-Employed,150000,Poor,500,4/3/2020
+8053,Ronald Banks,38,Atlanta,AB+,Associate,Unemployed,0,Excellent,710,4/16/2020
+6893,Ryan Bradford Dds,57,Atlanta,O+,PhD,Employed,110000,Good,830,8/23/2019
+5374,Janice Hall,23,Atlanta,AB-,Master's,Retired,48000,Excellent,750,7/1/2021
+7888,Jacob Mcdonald,55,Atlanta,B+,High School,Employed,30000,Poor,420,8/21/2022
+2320,Glenn Massey,26,Atlanta,A-,Bachelors,Student,0,Excellent,710,8/6/2020
+4443,Sandra Murray,30,Atlanta,AB+,PhD,Self-Employed,0,Poor,480,1/16/2022
+5043,Mark Williams,24,Atlanta,O-,PhD,Unemployed,0,Excellent,710,8/2/2021
+2830,Stephanie Reid Dvm,41,Atlanta,AB+,High School,Employed,40000,Good,720,3/17/2020
+2752,Seth Bartlett Ii,19,Atlanta,AB+,Bachelors,Student,0,Excellent,710,7/23/2020
+5196,Jeremy Rich,25,Atlanta,O-,PhD,Self-Employed,60000,Poor,580,7/22/2022
+4905,Elizabeth Miller,47,Atlanta,O-,Master's,Unemployed,0,Average,650,8/8/2020
+4385,Erin Martin,38,Atlanta,O-,PhD,Retired,75000,Excellent,810,9/29/2023
+7745,Frank Hess,31,Atlanta,B-,Associate,Employed,50000,Good,780,1/5/2022
+4826,Paul Rogers,25,Atlanta,AB-,High School,Unemployed,0,Poor,710,6/22/2020
+1647,Jennifer Edwards,39,Atlanta,AB-,Bachelors,Employed,20000,Excellent,700,10/26/2019
+8043,Brian Hall,23,Atlanta,O+,Master's,Self-Employed,1.00E+05,Average,690,2/21/2024
+3551,Kimberly Williams,29,Atlanta,AB+,PhD,Student,0,Good,710,1/7/2023
+3589,Isaac Mendez,52,Atlanta,B+,PhD,Employed,120000,Excellent,830,9/21/2023
+1127,Sarah Smith,27,Atlanta,B-,Associate,Unemployed,0,Poor,550,12/7/2022
+4155,Daniel Wolf,40,Atlanta,O+,High School,Gig-Worker,35000,Average,620,12/13/2022
+2647,Robert Ross,18,Atlanta,O-,Bachelors,Employed,80000,Good,750,11/16/2022
+6893,Douglas Foster,51,Atlanta,O+,Master's,Retired,55000,Excellent,790,6/19/2019
+3597,Louis Lowery,71,Atlanta,B+,PhD,Unemployed,0,Poor,710,1/29/2023
+3639,Jessica Tyler,23,Atlanta,O-,Associate,Employed,45000,Average,680,11/30/2023
+6645,William Davies,21,Atlanta,A+,High School,Student,15000,Good,710,3/26/2021
+3410,Jessica Reyes,21,Atlanta,AB+,Bachelors,Self-Employed,110000,Excellent,820,8/21/2021
+9448,Daniel Jones,22,Atlanta,O-,PhD,Unemployed,0,Poor,480,1/3/2024
+9246,Paula Morales,23,Atlanta,A+,PhD,Employed,130000,Average,710,3/23/2024
+2473,David Spears,26,Atlanta,A+,Associate,Unemployed,0,Good,710,12/3/2022
+2892,Scott Berry,40,Atlanta,B+,High School,Gig-Worker,28000,Poor,520,9/25/2021
+5432,Dalton Nguyen,62,Atlanta,B-,Bachelors,Employed,90000,Excellent,770,8/23/2020
+9605,Scott Clark,44,Atlanta,B+,Master's,Retired,60000,Average,740,9/18/2020
+4110,Jamie Baker,29,Atlanta,AB+,PhD,Unemployed,0,Poor,710,8/1/2022
+8908,Courtney Patrick,36,Atlanta,AB-,Associate,Employed,50000,Good,690,1/11/2020
+7375,William Ware,24,Atlanta,AB+,High School,Student,0,Excellent,710,10/16/2020
+8388,Amber Anderson,48,Atlanta,A+,Bachelors,Self-Employed,120000,Excellent,840,4/29/2024
+6622,Casey Johnson,19,Atlanta,O+,PhD,Unemployed,0,Average,450,7/5/2022
+1249,Zachary Collins,19,Atlanta,B+,PhD,Employed,140000,Good,730,8/27/2019
+4364,Zachary Reed,56,Atlanta,A-,Associate,Unemployed,0,Poor,710,3/10/2024
+9931,Christopher Weiss,32,Atlanta,AB-,High School,Gig-Worker,32000,Average,600,2/16/2023
+7089,Charles Strong,1,Atlanta,O-,Bachelors,Employed,1.00E+05,Excellent,790,4/25/2024
+9677,Katherine Kelly,51,Atlanta,B-,Master's,Retired,65000,Good,760,9/25/2023
+2440,Christopher Henderson,47,Atlanta,AB-,Master's,Student,0,Excellent,710,9/12/2022
+2690,Joseph Brown,37,Atlanta,O+,PhD,Employed,90000,Good,800,6/30/2019
+3508,Joseph Sanchez,45,Atlanta,B-,Associate,Unemployed,0,Poor,710,2/12/2023
+9665,Kyle Perez,30,Atlanta,AB-,High School,Employed,25000,Excellent,740,1/23/2020
+8704,Eduardo Houston,26,Atlanta,AB+,Bachelors,Self-Employed,70000,Average,670,11/25/2022
+5069,Lori Roach,82,Atlanta,A+,PhD,Retired,40000,Good,710,2/10/2021
+7481,Eric Butler,45,Atlanta,AB-,Associate,Gig-Worker,42000,Average,640,1/30/2023
+6039,Jeffrey Brown,0,Atlanta,O+,High School,Employed,55000,Excellent,780,8/24/2019
+1094,Thomas Haas,40,Atlanta,A+,Bachelors,Student,18000,Good,710,2/5/2024
+4665,Kelly Turner,0,Atlanta,O+,Master's,Self-Employed,140000,Excellent,850,8/30/2021
+8062,Lance Simpson,57,Atlanta,B+,PhD,Unemployed,0,Poor,420,1/7/2022
+3540,Jeffrey Green,50,Atlanta,AB+,PhD,Employed,1.00E+05,Average,750,9/8/2023
+9301,Eric Collins,35,Atlanta,B+,Associate,Unemployed,0,Good,710,10/7/2021
+2882,Brianna Williams,29,Atlanta,B+,High School,Gig-Worker,30000,Poor,580,2/29/2020
+4426,Robert Graves,21,Atlanta,A+,Bachelors,Employed,85000,Excellent,720,8/6/2019
+9747,Cindy Williams,39,Atlanta,A-,Master's,Retired,50000,Average,700,8/6/2019
+8333,Victor Sullivan,47,Atlanta,O+,PhD,Unemployed,0,Poor,710,12/6/2021
+7263,Frank Scott,39,Atlanta,A-,Associate,Employed,40000,Good,650,5/19/2020
+2280,Mark Bradshaw,36,Atlanta,AB+,High School,Student,0,Excellent,710,12/27/2019
+2863,Jessica Dunn,33,Atlanta,AB-,Bachelors,Self-Employed,0,Poor,450,6/4/2022
+5379,Kelsey Fox,18,Atlanta,O+,PhD,Unemployed,0,Average,400,1/18/2023
+3276,Mary Rice,24,Atlanta,B+,PhD,Employed,110000,Good,770,7/25/2023
+6911,Rachel Jackson,27,Atlanta,A+,Associate,Unemployed,0,Poor,710,7/17/2020
+9910,Leah Frederick,19,Atlanta,O-,High School,Gig-Worker,38000,Average,610,2/3/2023
+7491,Connor Odonnell,31,Atlanta,A-,Bachelors,Employed,95000,Excellent,790,11/27/2021
+7701,Claudia Downs,25,Atlanta,A-,Master's,Retired,55000,Good,730,8/18/2020
+7114,William Lang,21,Atlanta,B+,PhD,Unemployed,0,Excellent,710,7/6/2019
+1248,Lisa Moran,64,Atlanta,B-,Associate,Unemployed,0,Poor,710,2/17/2024
+8289,Ruben Burton,36,Atlanta,AB-,Master's,Self-Employed,120000,Good,810,9/6/2021
+9715,Brandon Smith,25,Atlanta,AB+,PhD,Employed,15000,Excellent,690,12/17/2021
+2146,Jessica Murphy,40,Atlanta,A+,PhD,Gig-Worker,50000,Average,700,9/20/2022
+7118,Misty Williams,23,Atlanta,AB-,Associate,Self-Employed,80000,Poor,590,12/13/2021
+6602,Brandy George,35,Atlanta,A+,Master's,Student,0,Excellent,710,10/12/2021
+9699,Andrea Buck,18,Atlanta,O-,PhD,Employed,90000,Good,800,8/8/2023
+5443,Stephanie Burke,24,Atlanta,AB-,Associate,Unemployed,0,Poor,710,11/15/2019
+8146,Stephanie Moon,49,Atlanta,B-,High School,Employed,25000,Excellent,740,12/17/2021
+4939,Sharon Johnson,61,Atlanta,O+,Bachelors,Self-Employed,70000,Average,670,11/8/2022
+5117,Matthew Haley,22,Atlanta,A+,PhD,Retired,40000,Good,710,2/24/2020
+9091,Sabrina may,28,Atlanta,O+,Associate,Gig-Worker,42000,Average,640,5/28/2022
+2914,Melinda Austin,0,Atlanta,A+,High School,Employed,55000,Excellent,780,9/3/2022
+1055,Angela Montgomery,39,Atlanta,AB-,Bachelors,Student,18000,Good,710,4/7/2020
+6384,Vanessa Martin,34,Atlanta,O+,Master's,Self-Employed,140000,Excellent,850,8/25/2019
+8451,Gabriel Stevens,28,Atlanta,B-,PhD,Unemployed,0,Poor,420,5/28/2021
+7919,Michael Wolfe,19,Atlanta,O+,PhD,Employed,1.00E+05,Average,750,2/25/2024
+8939,Brooke Torres,36,Atlanta,O+,Associate,Unemployed,0,Good,710,9/8/2019
+6834,Victor Duke,26,Atlanta,B-,High School,Gig-Worker,30000,Poor,580,5/25/2023
+9505,Joseph Garrett,29,Atlanta,AB-,Bachelors,Employed,85000,Excellent,720,7/11/2023
+3095,Kara Li,19,Atlanta,A+,Master's,Retired,50000,Average,700,3/20/2024
+9361,Juan Kelley,30,Atlanta,AB+,PhD,Unemployed,0,Poor,710,11/5/2021
+4179,Shawna Russell,26,Atlanta,O-,Associate,Employed,40000,Good,650,8/27/2023
+9772,Lori Lawrence,4,Atlanta,B-,High School,Student,0,Excellent,710,5/26/2022
+5579,Whitney Jones,42,Atlanta,B+,Bachelors,Self-Employed,0,Poor,450,9/13/2021
+2465,Joe Davila,26,Atlanta,O-,PhD,Unemployed,0,Average,400,3/10/2024
+3880,Lisa Keller,46,Atlanta,AB+,PhD,Employed,110000,Good,770,9/26/2022
+3571,Jordan Bush,23,Atlanta,A-,Associate,Unemployed,0,Poor,710,12/26/2019
+5690,Brenda Yu,27,Atlanta,A-,High School,Gig-Worker,38000,Average,610,1/18/2021
+2446,Jasmine Short,4,Atlanta,O-,Bachelors,Employed,95000,Excellent,790,2/23/2021
+1505,Tamara Leonard,48,Atlanta,AB+,Master's,Retired,55000,Good,730,3/15/2020
+7596,Kevin Wong,33,Atlanta,A+,Master's,Student,0,Excellent,710,9/22/2019
+8031,Lisa Lopez,31,Atlanta,AB+,PhD,Employed,150000,Good,820,12/7/2023
+4324,Justin Vargas,69,Atlanta,O-,Associate,Unemployed,0,Poor,710,7/1/2020
+1769,Jody Lopez,29,Atlanta,O+,High School,Gig-Worker,22000,Average,540,5/12/2020
+3412,Jonathan Woods,24,Atlanta,B+,Bachelors,Self-Employed,80000,Excellent,760,8/29/2022
+9230,Emma Ray,26,Atlanta,O-,PhD,Unemployed,0,Poor,380,11/1/2019
+7594,Andrea Johnson,24,Atlanta,AB-,Associate,Employed,12000,Average,630,8/16/2019
+4500,Wayne Sharp,38,Atlanta,B+,High School,Employed,60000,Excellent,800,2/28/2021
+3242,Shelby Black,53,Atlanta,A+,Bachelors,Student,15000,Good,710,9/7/2020
+9180,Martha Martin,33,Atlanta,A+,Master's,Self-Employed,1.00E+05,Average,680,2/16/2024
+3229,Amanda Wilson,17,Atlanta,B+,PhD,Employed,150000,Excellent,880,1/16/2021
+5829,Jeremy Nguyen,37,Atlanta,A+,High School,Unemployed,0,Poor,710,1/31/2023
+5330,Eileen Harris,17,Atlanta,B-,Bachelors,Self-Employed,80000,Average,630,7/29/2022
+2669,John Becker,30,Atlanta,O-,PhD,Student,20000,Good,710,4/27/2022
+1355,Felicia Wiley,56,Atlanta,O-,Associate,Employed,30000,Excellent,760,6/6/2020
+5967,Jesse Jones,59,Atlanta,AB-,Master's,Unemployed,0,Poor,710,11/2/2019
+6096,Steven Glenn,61,Atlanta,B+,PhD,Gig-Worker,45000,Average,590,9/12/2022
+6713,Caroline Swanson,35,Atlanta,A+,High School,Employed,60000,Excellent,810,1/10/2021
+6044,Terry Nicholson,4,Atlanta,B-,Bachelors,Student,0,Good,710,11/5/2019
+1392,Kelly Thomas,48,Atlanta,A+,PhD,Self-Employed,120000,Average,660,2/17/2021
+8636,Steven Mcgee,15,Atlanta,A-,Associate,Unemployed,0,Poor,710,6/4/2023
+7309,Shelley Ware,54,Atlanta,B-,PhD,Employed,130000,Good,740,9/7/2023
+9915,Melissa Brady,51,Atlanta,O-,Master's,Student,0,Excellent,710,9/29/2022
+4729,Maria Hall,24,Atlanta,A+,PhD,Employed,90000,Good,800,2/3/2022
+6662,Andre Smith,25,Atlanta,B+,Associate,Unemployed,0,Poor,710,2/14/2024
+4585,Karen Gonzalez,27,Atlanta,A+,High School,Employed,25000,Excellent,740,9/10/2020
+7476,Vincent Sellers,44,Atlanta,B+,Bachelors,Self-Employed,70000,Average,670,1/24/2023
+7009,Brandon Burke,48,Atlanta,O-,PhD,Retired,40000,Good,710,10/1/2021
+9940,Mr. Mark Hancock,32,Atlanta,O+,Associate,Gig-Worker,42000,Average,640,6/5/2021
+2605,Kenneth Perez,28,Atlanta,O+,High School,Employed,55000,Excellent,780,8/9/2023
+3602,Martin Hansen,53,Atlanta,B-,Bachelors,Student,18000,Good,710,12/22/2020
+5671,Susan Brown,44,Atlanta,A+,Master's,Self-Employed,140000,Excellent,850,6/21/2022
+4939,Nicole Alvarado,19,Atlanta,B-,PhD,Unemployed,0,Poor,420,5/5/2021
+2350,Jessica Rodriguez,20,Atlanta,A-,PhD,Employed,1.00E+05,Average,750,4/20/2024
+4299,Tina Price,33,Atlanta,A+,Associate,Unemployed,0,Good,710,6/13/2022
+9295,Mr. Jack Willis,60,Atlanta,O+,High School,Gig-Worker,30000,Poor,580,9/1/2023
+9483,Gregory Adams,47,Atlanta,AB+,Bachelors,Employed,85000,Excellent,720,3/14/2020
+2793,David Roberts,33,Atlanta,A+,Master's,Retired,50000,Average,700,6/5/2022
+2386,Cory Perry,56,Atlanta,O+,PhD,Unemployed,0,Poor,710,12/19/2019
+2452,Jessica Barry,27,Atlanta,A-,Associate,Employed,40000,Good,650,12/6/2020
+1202,Cynthia Thomas,29,Atlanta,B+,High School,Student,0,Excellent,710,5/13/2019
+6596,Shannon Johnson,27,Atlanta,A-,Bachelors,Self-Employed,0,Poor,450,1/17/2023
+2068,Justin White,37,Atlanta,AB-,PhD,Unemployed,0,Average,400,7/28/2022
+6849,Regina Stewart,19,Atlanta,O+,PhD,Employed,110000,Good,770,10/15/2022
+7353,Chelsea Finley,33,Atlanta,A+,Associate,Unemployed,0,Poor,710,5/25/2020
+3811,Emma Bennett,34,Atlanta,A-,High School,Gig-Worker,38000,Average,610,2/13/2021
+6328,Alan Lee,33,Atlanta,AB-,Bachelors,Employed,95000,Excellent,790,5/31/2023
+7440,Katelyn Miller,21,Atlanta,AB+,Master's,Retired,55000,Good,730,1/18/2020
+6000,Amanda Morris,50,Atlanta,B-,PhD,Employed,150000,Excellent,880,8/19/2020
+7283,David Pratt,62,Atlanta,A-,High School,Unemployed,0,Poor,710,12/24/2022
+4494,Matthew Cunningham,49,Atlanta,O+,Bachelors,Self-Employed,80000,Average,630,9/5/2020
+5738,Bobby Carson,30,Atlanta,A-,PhD,Student,20000,Good,710,9/10/2022
+7337,Melinda Wilson,21,Atlanta,AB-,Associate,Employed,30000,Excellent,760,4/26/2021
+3810,Nancy Hansen,27,Atlanta,O-,Master's,Unemployed,0,Poor,710,1/20/2024
+8483,Gregory Walls,57,Atlanta,A-,PhD,Gig-Worker,45000,Average,590,3/5/2021
+8051,Amber Nixon,54,Atlanta,O+,High School,Employed,60000,Excellent,810,12/27/2020
+8539,Kristin Franco,32,Atlanta,AB+,Bachelors,Student,0,Good,710,9/22/2021
+7092,Jeremiah Vazquez,19,Atlanta,B-,PhD,Self-Employed,120000,Average,660,5/1/2023
+4509,Anthony Smith,26,Atlanta,O+,Associate,Unemployed,0,Poor,710,5/12/2019
+9521,Victoria Brady,53,Atlanta,O+,PhD,Employed,130000,Good,740,2/22/2021
+2477,Erin Clark,46,Atlanta,B+,Bachelors,Employed,80000,Good,720,3/10/2022
+7052,Heather Boyle,23,Atlanta,B+,Associate,Unemployed,0,Excellent,710,10/23/2022
+5366,Elizabeth Sheppard,30,Atlanta,O-,PhD,Self-Employed,120000,Poor,550,3/13/2024
+9276,Robert Boone,21,Atlanta,AB+,High School,Employed,45000,Excellent,800,8/6/2019
+5634,Geoffrey Daniels,19,Atlanta,B-,Master's,Retired,50000,Average,680,9/15/2020
+9669,John Khan,18,Atlanta,AB+,PhD,Student,0,Good,710,10/31/2019
+6531,Christopher Armstrong,34,Atlanta,O-,PhD,Unemployed,32000,Poor,400,9/7/2020
+1291,Jennifer Lopez,12,Atlanta,O-,Associate,Employed,65000,Excellent,750,8/27/2021
+2894,Melissa Robertson,52,Atlanta,A-,High School,Self-Employed,30000,Excellent,600,12/21/2019
+8520,Karen Price,38,Atlanta,B-,PhD,Employed,1.00E+05,Average,790,9/23/2019
+5190,Lisa Franklin,23,Atlanta,A+,PhD,Retired,0,Average,537,5/21/2022
+4838,Kristin Burton,24,Atlanta,B-,Bachelors,Unemployed,0,Excellent,710,12/29/2019
+5882,Caitlin Adams,36,Atlanta,A-,High School,Unemployed,0,Good,457,4/3/2020
+1022,Evan Hernandez,24,Atlanta,A+,PhD,Unemployed,0,Excellent,710,12/15/2022
+1496,Jennifer Knight,57,Atlanta,O-,Bachelors,Retired,0,Excellent,710,8/7/2020
+4932,Bonnie Wilson,19,Atlanta,A-,PhD,Student,0,Excellent,710,3/19/2022
+7285,Kenneth Ramirez,28,Atlanta,A+,Master's,Self-Employed,135068,Average,794,3/10/2024
+6733,Ellen Mccullough,29,Atlanta,AB-,PhD,Employed,-50975,Good,710,11/29/2019
+6361,Thomas Stone,35,Atlanta,B-,Master's,Unemployed,0,Good,814,7/17/2019
+5344,Kathleen Armstrong,2,Atlanta,O-,PhD,Self-Employed,-102073,Poor,780,5/27/2020
+9019,Terry Bennett,39,Atlanta,A-,High School,Freelance,25000,Excellent,720,9/6/2019
+4771,Kristin Nguyen,20,Atlanta,AB+,PhD,Student,15000,Good,710,4/6/2021
+4661,Angela Randolph,60,Atlanta,O+,Master's,Retired,35000,Average,650,5/19/2019
+1671,Christopher Tate,59,Atlanta,A-,Bachelors,Self-Employed,150000,Poor,500,9/24/2023
+7580,Christopher Walton,23,Atlanta,AB-,Associate,Unemployed,0,Excellent,710,9/30/2019
+3243,Meagan Miranda,25,Atlanta,A+,PhD,Employed,110000,Good,830,7/23/2022
+7799,David Brown,25,Atlanta,AB-,Master's,Retired,48000,Excellent,750,5/11/2020
+1725,Eric Miller,38,Atlanta,O+,High School,Employed,30000,Poor,420,8/1/2019
+2099,Joel Bartlett,25,Atlanta,B+,Bachelors,Student,0,Excellent,710,9/6/2019
+1334,Stacy Gillespie,24,Atlanta,B-,PhD,Self-Employed,0,Poor,480,1/28/2023
+7285,Cindy Shaw,49,Atlanta,O-,PhD,Unemployed,0,Excellent,710,9/11/2023
+7288,Andrew Erickson,30,Atlanta,AB+,High School,Employed,40000,Good,720,3/11/2020
+4728,Ashley Rodriguez,18,Atlanta,B-,Bachelors,Student,0,Excellent,710,3/7/2021
+8870,Darryl Cruz,20,Atlanta,O+,PhD,Self-Employed,60000,Poor,580,4/3/2024
+7011,Sheila Church,18,Atlanta,B-,Master's,Unemployed,0,Average,650,12/25/2022
+9060,Nancy Munoz,23,Atlanta,AB+,PhD,Retired,75000,Excellent,810,4/1/2020
+5631,Rebecca Martinez,51,Atlanta,A+,Associate,Employed,50000,Good,780,1/23/2020
+2558,John Simmons,57,Atlanta,O+,High School,Unemployed,0,Poor,710,2/10/2023
+2968,Lance Torres,27,Atlanta,B-,Bachelors,Employed,20000,Excellent,700,10/20/2023
+7870,Timothy Terry,39,Atlanta,A-,Master's,Self-Employed,1.00E+05,Average,690,7/15/2020
+3886,John Moore,21,Atlanta,A-,PhD,Student,0,Good,710,1/14/2023
+3866,Bradley Ramos,17,Atlanta,A-,PhD,Employed,120000,Excellent,830,6/19/2021
+6482,Jill Taylor,35,Atlanta,O-,Associate,Unemployed,0,Poor,550,5/18/2020
+2927,Kelly Brown,57,Atlanta,B-,High School,Gig-Worker,35000,Average,620,5/16/2020
+1579,Jonathan Chavez,43,Atlanta,AB+,Bachelors,Employed,80000,Good,750,3/11/2021
+3975,Denise Wall,41,Atlanta,B-,Master's,Retired,55000,Excellent,790,2/5/2023
+3060,Todd Martinez,32,Atlanta,A+,PhD,Unemployed,0,Poor,710,10/19/2021
+9368,Jennifer Ford,29,Atlanta,B-,Associate,Employed,45000,Average,680,9/7/2019
+1076,Raymond Park Jr.,38,Atlanta,B-,High School,Student,15000,Good,710,5/26/2021
+9525,Julia Reynolds,39,Atlanta,O-,Bachelors,Self-Employed,110000,Excellent,820,5/7/2021
+7341,John Mclean,32,Atlanta,AB-,PhD,Unemployed,0,Poor,480,1/17/2023
+9842,Katie Howard,30,Atlanta,AB-,PhD,Employed,130000,Average,710,3/5/2020
+2862,Amanda Lawson,24,Atlanta,AB-,Associate,Unemployed,0,Good,710,9/16/2022
+8023,Paul Murray,60,Atlanta,AB+,High School,Gig-Worker,28000,Poor,520,6/3/2022
+7246,James Morris,20,Atlanta,AB-,Bachelors,Employed,90000,Excellent,770,12/30/2020
+8168,Matthew Collins,28,Atlanta,B-,Master's,Retired,60000,Average,740,8/9/2020
+9443,Sharon Carpenter,57,Atlanta,AB-,PhD,Unemployed,0,Poor,710,3/10/2021
+7834,Marcus Brown,47,Atlanta,O+,Associate,Employed,50000,Good,690,3/15/2021
+9289,Mitchell Decker,30,Atlanta,B-,High School,Student,0,Excellent,710,8/23/2021
+1759,Donald Murphy,28,Atlanta,A+,Bachelors,Self-Employed,120000,Excellent,840,11/11/2023
+5466,Joseph Farley,33,Atlanta,A+,PhD,Unemployed,0,Average,450,12/31/2023
+1949,Brendan Parker,24,Atlanta,A+,PhD,Employed,140000,Good,730,9/21/2019
+2838,Samuel Davis,57,Atlanta,B+,Associate,Unemployed,0,Poor,710,11/4/2022
+2963,Kelsey Porter,26,Atlanta,O-,High School,Gig-Worker,32000,Average,600,8/8/2019
+3575,Mark Bryant,84,Atlanta,O+,Bachelors,Employed,1.00E+05,Excellent,790,10/5/2023
+4717,Margaret Zamora,23,Atlanta,O+,Master's,Retired,65000,Good,760,8/28/2020
+2333,David Payne,19,Atlanta,A+,Master's,Student,0,Excellent,710,7/8/2020
+4334,Tony Salas Phd,76,Atlanta,O+,PhD,Employed,90000,Good,800,10/6/2023
+6348,Adrian Bowman,35,Atlanta,A-,Associate,Unemployed,0,Poor,710,7/1/2023
+1736,Mrs. Lauren Morgan,51,Atlanta,B-,High School,Employed,25000,Excellent,740,8/7/2021
+4721,Joshua Murray,30,Atlanta,A-,Bachelors,Self-Employed,70000,Average,670,5/13/2020
+5823,Jason Weber,23,Atlanta,B-,PhD,Retired,40000,Good,710,9/26/2023
+6930,Rebecca Lewis,58,Atlanta,A+,Associate,Gig-Worker,42000,Average,640,6/14/2023
+6301,Joan Archer,20,Atlanta,AB-,High School,Employed,55000,Excellent,780,5/5/2024
+2737,Brittany Edwards,18,Atlanta,A-,Bachelors,Student,18000,Good,710,4/3/2023
+8280,Timothy Diaz,32,Atlanta,B-,Master's,Self-Employed,140000,Excellent,850,10/24/2021
+7933,Daniel Blankenship,29,Atlanta,B+,PhD,Unemployed,0,Poor,420,5/24/2023
+7968,Mary Stephens,20,Atlanta,A+,PhD,Employed,1.00E+05,Average,750,12/20/2019
+4657,Brian Figueroa,44,Atlanta,A-,Associate,Unemployed,0,Good,710,4/27/2022
+2201,Stephanie Anderson,19,Atlanta,B+,High School,Gig-Worker,30000,Poor,580,11/14/2019
+1168,Michael Doyle,37,Atlanta,O-,Bachelors,Employed,85000,Excellent,720,4/17/2022
+6558,Kathleen Marshall,32,Atlanta,A-,Master's,Retired,50000,Average,700,4/15/2022
+9968,Donald Lynch,23,Atlanta,O+,PhD,Unemployed,0,Poor,710,3/13/2021
+2090,David Espinoza,21,Atlanta,A+,Associate,Employed,40000,Good,650,12/18/2021
+6851,Julia Keith,25,Atlanta,O-,High School,Student,0,Excellent,710,12/9/2022
+4280,Kristen Cohen,20,Atlanta,O-,Bachelors,Self-Employed,0,Poor,450,1/6/2024
+5407,Erica Reyes,1,Atlanta,O+,PhD,Unemployed,0,Average,400,12/27/2020
+9828,Andrew Bryan,31,Atlanta,O-,PhD,Employed,110000,Good,770,1/5/2024
+3194,Mary Parrish,28,Atlanta,A-,Associate,Unemployed,0,Poor,710,2/24/2021
+2487,Katrina Warren,65,Atlanta,AB-,High School,Gig-Worker,38000,Average,610,9/11/2023
+2133,Kevin Robinson,20,Atlanta,A+,Bachelors,Employed,95000,Excellent,790,1/31/2022
+4363,Michael Bradley,37,Atlanta,O+,Master's,Retired,55000,Good,730,8/22/2022
+8471,Debbie Scott,34,Atlanta,A-,PhD,Unemployed,0,Excellent,710,10/7/2021
+5795,Sara Cantrell,34,Atlanta,O-,Associate,Unemployed,0,Poor,710,10/4/2021
+3831,Catherine Peterson,18,Atlanta,A+,Master's,Self-Employed,120000,Good,810,8/13/2023
+4496,Kyle Thomas,32,Atlanta,B-,PhD,Employed,15000,Excellent,690,11/16/2019
+5155,Scott Simon,29,Atlanta,A-,PhD,Gig-Worker,50000,Average,700,5/10/2023
+4191,Valerie Hunter,28,Atlanta,O+,Associate,Self-Employed,80000,Poor,590,3/28/2021
+1329,Ashley Warner,49,Atlanta,A+,Master's,Student,0,Excellent,710,12/21/2021
+6265,Monique Dominguez,32,Atlanta,B+,PhD,Employed,90000,Good,800,2/5/2021
+2481,Cody Taylor,22,Atlanta,AB+,Associate,Unemployed,0,Poor,710,7/15/2023
+6021,Amanda Sullivan,22,Atlanta,O-,High School,Employed,25000,Excellent,740,1/20/2023
+6179,Mary Ruiz,54,Atlanta,AB-,Bachelors,Self-Employed,70000,Average,670,3/22/2020
+8359,April Martin,51,Atlanta,AB+,PhD,Retired,40000,Good,710,10/17/2020
+5404,Sean Bennett,47,Atlanta,O+,Associate,Gig-Worker,42000,Average,640,1/19/2021
+1029,Ryan Harris,37,Atlanta,A-,High School,Employed,55000,Excellent,780,3/26/2023
+9896,Tyler Gonzalez,24,Atlanta,A-,Bachelors,Student,18000,Good,710,9/28/2022
+7425,Christopher Rodriguez,56,Atlanta,AB-,Master's,Self-Employed,140000,Excellent,850,10/20/2019
+6837,Brian Arellano,30,Atlanta,O+,PhD,Unemployed,0,Poor,420,3/13/2022
+7586,Danielle Cannon,43,Atlanta,B+,PhD,Employed,1.00E+05,Average,750,3/19/2020
+1341,Katie Martinez,53,Atlanta,O+,Associate,Unemployed,0,Good,710,2/22/2021
+7767,Pamela Kelly,38,Atlanta,B-,High School,Gig-Worker,30000,Poor,580,6/28/2021
+9424,Laurie Edwards,46,Atlanta,A-,Bachelors,Employed,85000,Excellent,720,10/8/2022
+4480,Chad Cross,27,Atlanta,B-,Master's,Retired,50000,Average,700,10/5/2021
+4882,Kyle Gray,66,Atlanta,AB+,PhD,Unemployed,0,Poor,710,2/15/2023
+2467,Casey Hamilton,21,Atlanta,O-,Associate,Employed,40000,Good,650,1/24/2021
+1379,Jillian Silva,40,Atlanta,A+,High School,Student,0,Excellent,710,1/22/2022
+5537,Donald Ayala,50,Atlanta,AB-,Bachelors,Self-Employed,0,Poor,450,3/2/2023
+1228,William Ford,42,Atlanta,B+,PhD,Unemployed,0,Average,400,10/26/2020
+8626,Isabella Kennedy,37,Atlanta,B-,PhD,Employed,110000,Good,770,2/9/2022
+6994,Justin Brown,64,Atlanta,B+,Associate,Unemployed,0,Poor,710,10/26/2023
+9940,Shannon Alexander,35,Atlanta,A-,High School,Gig-Worker,38000,Average,610,1/11/2024
+3263,Katherine Whitaker,26,Atlanta,O+,Bachelors,Employed,95000,Excellent,790,5/25/2022
+4778,Jeremy Campbell,33,Atlanta,B-,Master's,Retired,55000,Good,730,7/31/2019
+8381,Joel Montgomery,21,Atlanta,O+,Master's,Student,0,Excellent,710,2/27/2022
+2235,Christine Frazier,37,Atlanta,AB+,PhD,Employed,150000,Good,820,5/15/2021
+5376,Brittany Norman,23,Atlanta,B-,Associate,Unemployed,0,Poor,710,7/27/2023
+9345,Julie Freeman,22,Atlanta,A+,High School,Gig-Worker,22000,Average,540,8/1/2022
+2311,Henry Castro,23,Atlanta,A+,Bachelors,Self-Employed,80000,Excellent,760,5/17/2021
+7657,Dr. Aaron Andersen,22,Atlanta,A+,PhD,Unemployed,0,Poor,380,3/22/2022
+5181,Brandon Gomez,35,Atlanta,B+,Associate,Employed,12000,Average,630,8/31/2020
+1609,Regina Matthews,35,Atlanta,AB+,High School,Employed,60000,Excellent,800,3/17/2021
+8597,Alan Roach,25,Atlanta,A+,Bachelors,Student,15000,Good,710,6/13/2019
+4586,Christopher Mcfarland,34,Atlanta,AB-,Master's,Self-Employed,1.00E+05,Average,680,8/1/2020
+9995,Michaela Patterson Md,33,Atlanta,O+,PhD,Employed,150000,Excellent,880,3/25/2020
+5795,Michael Hoffman,46,Atlanta,AB+,High School,Unemployed,0,Poor,710,5/3/2020
+4759,Dylan Simon,76,Atlanta,A+,Bachelors,Self-Employed,80000,Average,630,11/29/2022
+2032,Christina Davis,22,Atlanta,AB-,PhD,Student,20000,Good,710,12/12/2019
+9981,Jennifer Fuentes,24,Atlanta,B+,Associate,Employed,30000,Excellent,760,4/14/2023
+5335,Peter Kelly,49,Atlanta,AB+,Master's,Unemployed,0,Poor,710,9/8/2021
+7595,Tammy Cole,25,Atlanta,A+,PhD,Gig-Worker,45000,Average,590,5/16/2020
+3200,Sandra Flynn,30,Atlanta,B+,High School,Employed,60000,Excellent,810,5/24/2020
+7596,Kathryn Smith,31,Atlanta,B-,Bachelors,Student,0,Good,710,1/5/2020
+8323,Jacqueline Stanton,34,Atlanta,B-,PhD,Self-Employed,120000,Average,660,5/20/2023
+7757,Emma Frederick,27,Atlanta,O-,Associate,Unemployed,0,Poor,710,10/16/2023
+2745,Kenneth Jones,67,Atlanta,O+,PhD,Employed,130000,Good,740,12/9/2022
+3873,Jeffrey Smith,35,Atlanta,AB-,Master's,Student,0,Excellent,710,10/21/2022
+8977,David Owen,58,Atlanta,O-,PhD,Employed,90000,Good,800,2/27/2020
+1274,Kyle Reed,18,Atlanta,AB+,Associate,Unemployed,0,Poor,710,8/28/2022
+1599,Chad Perez,18,Atlanta,A+,High School,Employed,25000,Excellent,740,11/15/2023
+6037,Courtney Barnett,21,Atlanta,AB+,Bachelors,Self-Employed,70000,Average,670,3/25/2023
+5709,Kelly Miller,28,Atlanta,A+,PhD,Retired,40000,Good,710,2/28/2021
+1939,Larry Ramsey,66,Atlanta,B+,Associate,Gig-Worker,42000,Average,640,5/14/2021
+2166,Edward Duran,51,Atlanta,B+,High School,Employed,55000,Excellent,780,4/19/2020
+8747,Leah Sullivan,25,Atlanta,A-,Bachelors,Student,18000,Good,710,1/18/2024
+3744,Susan Owen,34,Atlanta,B-,Master's,Self-Employed,140000,Excellent,850,5/5/2021
+9568,Steven James,62,Atlanta,A+,PhD,Unemployed,0,Poor,420,6/27/2020
+5414,Holly Colon,24,Atlanta,A+,PhD,Employed,1.00E+05,Average,750,1/8/2022
+8441,Patrick Cook,64,Atlanta,A+,Associate,Unemployed,0,Good,710,9/1/2019
+4267,Daniel Hendricks,22,Atlanta,O-,High School,Gig-Worker,30000,Poor,580,2/17/2020
+5364,Ryan Berg,18,Atlanta,O-,Bachelors,Employed,85000,Excellent,720,4/5/2021
+2624,Debbie Thompson,28,Atlanta,B+,Master's,Retired,50000,Average,700,7/14/2023
+1806,Jesse Sanchez,29,Atlanta,A+,PhD,Unemployed,0,Poor,710,1/6/2021
+1821,Norman Thomas,24,Atlanta,A-,Associate,Employed,40000,Good,650,5/5/2023
+8282,Catherine Zhang,49,Atlanta,O+,High School,Student,0,Excellent,710,2/17/2020
+6650,John Orozco Md,25,Atlanta,B+,Bachelors,Self-Employed,0,Poor,450,8/27/2022
+9603,Wayne Hodge,68,Atlanta,A-,PhD,Unemployed,0,Average,400,10/9/2019
+6233,Elaine Lynch,63,Atlanta,B+,PhD,Employed,110000,Good,770,5/6/2022
+7312,Derek Lawson,23,Atlanta,B+,Associate,Unemployed,0,Poor,710,7/8/2019
+3954,Andre Anderson,23,Atlanta,O+,High School,Gig-Worker,38000,Average,610,9/12/2020
+5077,Donna Smith,21,Atlanta,B+,Bachelors,Employed,95000,Excellent,790,12/2/2021
+2369,Dr. Leonard Brewer Ii,19,Atlanta,A+,Master's,Retired,55000,Good,730,9/8/2022
+8554,Pamela Garrett,23,Atlanta,A+,PhD,Employed,150000,Excellent,880,1/30/2021
+8454,Phillip Wilson,42,Atlanta,O+,High School,Unemployed,0,Poor,710,4/3/2020
+7542,Vanessa Walker,23,Atlanta,B-,Bachelors,Self-Employed,80000,Average,630,8/14/2022
+5113,Justin Lewis,26,Atlanta,AB-,PhD,Student,20000,Good,710,5/9/2023
+8822,Anthony Coleman,54,Atlanta,O+,Associate,Employed,30000,Excellent,760,12/29/2019
+4307,Jasmine Luna,39,Atlanta,A-,Master's,Unemployed,0,Poor,710,4/10/2020
+1811,Michael Patton,17,Atlanta,O-,PhD,Gig-Worker,45000,Average,590,11/19/2022
+1979,Joshua Turner,21,Atlanta,AB+,High School,Employed,60000,Excellent,810,8/18/2019
+2843,Billy Johnson,26,Atlanta,B+,Bachelors,Student,0,Good,710,9/30/2021
+9844,Anthony Gonzalez Phd,29,Atlanta,AB+,PhD,Self-Employed,120000,Average,660,9/16/2019
+4253,Sarah Lopez,33,Atlanta,AB+,Associate,Unemployed,0,Poor,710,4/18/2021
+9554,Lawrence Williams,1,Atlanta,AB+,PhD,Employed,130000,Good,740,2/13/2024
+2916,Susan Nichols,62,Atlanta,A+,Bachelors,Employed,80000,Good,720,10/5/2020
+7407,Jean Rodriguez,39,Atlanta,B-,Associate,Unemployed,0,Excellent,710,8/2/2021
+4339,Jennifer Leon,27,Atlanta,A-,PhD,Self-Employed,120000,Poor,550,10/16/2022
+7799,Meredith Hill,45,Atlanta,B-,High School,Employed,45000,Excellent,800,12/13/2023
+4649,Laura Lawrence,53,Atlanta,O-,Master's,Retired,50000,Average,680,11/19/2023
+8118,Justin Hicks,37,Atlanta,O-,PhD,Student,0,Good,710,1/3/2021
+9828,Krista Thornton,30,Atlanta,AB+,PhD,Unemployed,32000,Poor,400,10/1/2022
+1524,Ian Duffy,32,Atlanta,B+,Associate,Employed,65000,Excellent,750,5/24/2019
+8742,Jade Baker,24,Atlanta,O-,High School,Self-Employed,30000,Excellent,600,5/31/2021
+9192,Billy Petersen,37,Atlanta,B+,PhD,Employed,1.00E+05,Average,790,7/2/2019
+8326,Robert Garcia,24,Atlanta,B-,PhD,Retired,0,Average,537,12/1/2022
+7700,John Donaldson,18,Atlanta,B+,Bachelors,Unemployed,0,Excellent,710,6/26/2019
+1998,Raymond Galvan,28,Atlanta,A+,High School,Unemployed,0,Good,457,2/19/2023
+5338,Brandon Greene,24,Atlanta,A-,PhD,Unemployed,0,Excellent,710,6/3/2020
+6577,Christine Cooper,22,Atlanta,O+,Bachelors,Retired,0,Excellent,710,5/6/2021
+8886,Ashley Hawkins,42,Atlanta,B-,PhD,Student,0,Excellent,710,11/22/2020
+3400,Derek Singleton,23,Atlanta,AB+,Master's,Self-Employed,135068,Average,794,2/14/2021
+9946,Kyle Anderson,58,Atlanta,AB-,PhD,Employed,-50975,Good,710,8/12/2022
+4314,Sarah Green,19,Atlanta,B+,Master's,Unemployed,0,Good,814,2/6/2023
+7293,Shelly Lynn,51,Atlanta,B+,PhD,Self-Employed,-102073,Poor,780,8/4/2021
+9065,John Mccarty,43,Atlanta,A+,High School,Freelance,25000,Excellent,720,1/20/2023
+8623,Courtney Moore,32,Atlanta,O-,PhD,Student,15000,Good,710,3/12/2021
+1461,Javier Hamilton,36,Atlanta,O-,Master's,Retired,35000,Average,650,2/12/2022
+6527,Sandra Graham,34,Atlanta,A+,Bachelors,Self-Employed,150000,Poor,500,6/16/2022
+6059,Carol Miller,31,Atlanta,AB+,Associate,Unemployed,0,Excellent,710,12/27/2019
+1704,Brandi Hood,55,Atlanta,A-,PhD,Employed,110000,Good,830,1/20/2022
+6643,Adam Thompson,26,Atlanta,A+,Master's,Retired,48000,Excellent,750,9/12/2022
+4272,Amber Reid,27,Atlanta,AB+,High School,Employed,30000,Poor,420,12/17/2020
+5123,Jennifer Evans,39,Atlanta,A+,Bachelors,Student,0,Excellent,710,1/10/2022
+8307,Keith Wilcox,49,Atlanta,B-,PhD,Self-Employed,0,Poor,480,1/15/2024
+2131,Cynthia Bryant,22,Atlanta,A+,PhD,Unemployed,0,Excellent,710,12/9/2021
+4403,Nicholas Bell,19,Atlanta,AB-,High School,Employed,40000,Good,720,8/5/2019
+2686,Hannah Carey,22,Atlanta,AB-,Bachelors,Student,0,Excellent,710,2/17/2021
+1530,Brad Lewis,47,Atlanta,O+,PhD,Self-Employed,60000,Poor,580,5/29/2019
+6558,Christina Sullivan,29,Atlanta,A+,Master's,Unemployed,0,Average,650,8/28/2019
+2001,Sharon Ferrell,23,Atlanta,AB-,PhD,Retired,75000,Excellent,810,3/15/2023
+5093,Kyle Armstrong,35,Atlanta,AB+,Associate,Employed,50000,Good,780,2/5/2023
+2157,Bryce Klein,32,Atlanta,O+,High School,Unemployed,0,Poor,710,1/24/2024
+2527,Gabriel Garcia,25,Atlanta,A-,Bachelors,Employed,20000,Excellent,700,1/2/2021
+7038,Justin Gibbs,36,Atlanta,AB-,Master's,Self-Employed,1.00E+05,Average,690,7/12/2019
+8371,Kelly Johnson,26,Atlanta,O+,PhD,Student,0,Good,710,9/27/2019
+7892,Christopher Brown,25,Atlanta,B+,PhD,Employed,120000,Excellent,830,6/18/2019
+2484,Lisa Chambers,38,Atlanta,A-,Associate,Unemployed,0,Poor,550,4/22/2022
+3241,Michael Zimmerman,29,Atlanta,AB-,High School,Gig-Worker,35000,Average,620,5/31/2020
+5879,Deanna Collins,33,Atlanta,O-,Bachelors,Employed,80000,Good,750,12/15/2021
+3492,Erika Hernandez,32,Atlanta,B+,Master's,Retired,55000,Excellent,790,3/17/2021
+9890,Pamela Duncan,50,Atlanta,B+,PhD,Unemployed,0,Poor,710,10/5/2023
+6002,Sara Jones,21,Atlanta,O+,Associate,Employed,45000,Average,680,11/15/2022
+4274,Theresa Coleman,27,Atlanta,A+,High School,Student,15000,Good,710,12/23/2021
+9000,Stacey Wood,31,Atlanta,B+,Bachelors,Self-Employed,110000,Excellent,820,2/10/2020
+7078,Patrick Flores,37,Atlanta,O+,PhD,Unemployed,0,Poor,480,6/11/2021
+6268,Laura Morgan,55,Atlanta,AB+,PhD,Employed,130000,Average,710,3/5/2022
+5659,Nicole Crane,59,Atlanta,AB+,Associate,Unemployed,0,Good,710,11/22/2023
+8763,Robert Arellano,20,Atlanta,O-,High School,Gig-Worker,28000,Poor,520,1/8/2021
+4223,Jon Spence,36,Atlanta,A+,Bachelors,Employed,90000,Excellent,770,7/31/2023
+9703,Kevin Smith,41,Atlanta,A-,Master's,Retired,60000,Average,740,8/10/2019
+1575,Rhonda Jackson,42,Atlanta,B+,PhD,Unemployed,0,Poor,710,2/24/2020
+9999,Daniel Morris,25,Atlanta,AB+,Associate,Employed,50000,Good,690,6/25/2021
+4825,Courtney Stephens,23,Atlanta,B-,High School,Student,0,Excellent,710,4/10/2022
+6227,Brent Robinson,32,Atlanta,B+,Bachelors,Self-Employed,120000,Excellent,840,1/26/2020
+5073,Devin Harmon,49,Atlanta,AB+,PhD,Unemployed,0,Average,450,6/26/2021
+8289,Kimberly Shannon,69,Atlanta,A-,PhD,Employed,140000,Good,730,3/21/2022
+4902,Patricia Benitez,47,Atlanta,A+,Associate,Unemployed,0,Poor,710,11/1/2022
+1486,Michael Rogers,51,Atlanta,B+,High School,Gig-Worker,32000,Average,600,10/11/2022
+9801,William Faulkner,40,Atlanta,B+,Bachelors,Employed,1.00E+05,Excellent,790,6/13/2019
+5549,Amy Hartman,32,Atlanta,O-,Master's,Retired,65000,Good,760,9/13/2020
+8051,Holly Andersen,25,Atlanta,O-,Master's,Student,0,Excellent,710,5/26/2022
+6490,Jennifer Mayo,44,Atlanta,A+,PhD,Employed,90000,Good,800,7/7/2021
+8039,Greg White,17,Atlanta,B+,Associate,Unemployed,0,Poor,710,12/21/2023
+9652,Kenneth Weeks,1,Atlanta,O+,High School,Employed,25000,Excellent,740,1/30/2021
+3371,Jesse York,43,Atlanta,O+,Bachelors,Self-Employed,70000,Average,670,7/6/2022
+8747,Leah Stone,26,Atlanta,AB-,PhD,Retired,40000,Good,710,10/12/2022
+8790,Jeffrey Ferguson,33,Atlanta,B+,Associate,Gig-Worker,42000,Average,640,4/26/2023
+7178,Travis Roman,23,Atlanta,B-,High School,Employed,55000,Excellent,780,2/6/2020
+4452,Ashley Salazar,37,Atlanta,AB-,Bachelors,Student,18000,Good,710,9/21/2019
+9509,David Miranda,23,Atlanta,B+,Master's,Self-Employed,140000,Excellent,850,3/11/2020
+7614,Angela Sullivan,16,Atlanta,B+,PhD,Unemployed,0,Poor,420,4/30/2022
+9751,Ashley Bell,23,Atlanta,AB-,PhD,Employed,1.00E+05,Average,750,4/9/2020
+5447,Mrs. Sabrina Moreno,29,Atlanta,A+,Associate,Unemployed,0,Good,710,10/5/2020
+7543,Craig Clarke,42,Atlanta,O+,High School,Gig-Worker,30000,Poor,580,12/28/2019
+6570,Kelly Hill,24,Atlanta,AB-,Bachelors,Employed,85000,Excellent,720,9/5/2023
+8335,Aaron Weaver,44,Atlanta,AB-,Master's,Retired,50000,Average,700,8/12/2022
+1541,George Mason,81,Atlanta,AB-,PhD,Unemployed,0,Poor,710,2/17/2024
+8587,Jonathan Hodges,28,Atlanta,B+,Associate,Employed,40000,Good,650,5/21/2019
+6844,Felicia Yang,24,Atlanta,A-,High School,Student,0,Excellent,710,11/30/2019
+7880,Sarah Miller,25,Atlanta,B-,Bachelors,Self-Employed,0,Poor,450,1/29/2023
+9515,Vincent Ray,50,Atlanta,A-,PhD,Unemployed,0,Average,400,6/21/2019
+9682,Jamie Collins,32,Atlanta,B-,PhD,Employed,110000,Good,770,6/17/2023
+5486,Amanda Cummings,22,Atlanta,B-,Associate,Unemployed,0,Poor,710,7/24/2022
+9764,Rachel Swanson,2,Atlanta,AB-,High School,Gig-Worker,38000,Average,610,1/28/2022
+9302,Nicole Knight,33,Atlanta,B+,Bachelors,Employed,95000,Excellent,790,7/31/2022
+8047,Michael Mann,25,Atlanta,B+,Master's,Retired,55000,Good,730,5/5/2023
+7395,William Rogers,18,Atlanta,A-,PhD,Unemployed,0,Excellent,710,8/31/2020
+8574,Melanie Mitchell,25,Atlanta,A-,Associate,Unemployed,0,Poor,710,5/13/2022
+6436,Steven Robinson,68,Atlanta,AB+,Master's,Self-Employed,120000,Good,810,12/4/2019
+5150,Brian George,25,Atlanta,B-,PhD,Employed,15000,Excellent,690,4/6/2023
+7288,Tony Harrison,25,Atlanta,B+,PhD,Gig-Worker,50000,Average,700,10/8/2022
+6028,Elaine Guzman,23,Atlanta,A-,Associate,Self-Employed,80000,Poor,590,7/22/2023
+2301,Michelle Lane,42,Atlanta,O+,Master's,Student,0,Excellent,710,10/19/2021
+6197,Jason Smith,41,Atlanta,B+,PhD,Employed,90000,Good,800,12/5/2021
+5311,Janice Moore,58,Atlanta,A-,Associate,Unemployed,0,Poor,710,9/24/2023
+4940,Jennifer Hayes,34,Atlanta,A+,High School,Employed,25000,Excellent,740,12/3/2021
+1038,Phillip Espinoza,35,Atlanta,A+,Bachelors,Self-Employed,70000,Average,670,2/6/2020
+5938,Charlene Brown Md,29,Atlanta,O-,PhD,Retired,40000,Good,710,7/30/2023
+5500,Thomas Erickson,30,Atlanta,O-,Associate,Gig-Worker,42000,Average,640,3/25/2020
+5626,Jerome Day,20,Atlanta,O-,High School,Employed,55000,Excellent,780,2/25/2021
+8439,Alejandro Khan,35,Atlanta,B+,Bachelors,Student,18000,Good,710,10/25/2020
+5835,Laurie Cole,30,Atlanta,A+,Master's,Self-Employed,140000,Excellent,850,8/7/2021
+7650,Bill Walker,24,Atlanta,A+,PhD,Unemployed,0,Poor,420,1/21/2023
+7702,Alexander Cervantes,1,Atlanta,O+,PhD,Employed,1.00E+05,Average,750,7/30/2023
+8887,Manuel Knight,37,Atlanta,A+,Associate,Unemployed,0,Good,710,9/25/2023
+1886,Aaron Simmons,40,Atlanta,B+,High School,Gig-Worker,30000,Poor,580,3/29/2020
+4394,Sandy George,56,Atlanta,B+,Bachelors,Employed,85000,Excellent,720,8/10/2023
+4152,Austin Anderson,17,Atlanta,B-,Master's,Retired,50000,Average,700,6/4/2023
+9278,Sharon Freeman,55,Atlanta,O-,PhD,Unemployed,0,Poor,710,3/26/2021
+1841,Gary Wilson,24,Atlanta,B+,Associate,Employed,40000,Good,650,11/15/2020
+2586,Rebecca Jones,47,Atlanta,B-,High School,Student,0,Excellent,710,5/12/2019
+6892,Craig Wyatt,28,Atlanta,AB-,Bachelors,Self-Employed,0,Poor,450,5/20/2019
+8303,Amanda Dixon,22,Atlanta,A-,PhD,Unemployed,0,Average,400,1/3/2024
+8086,Clayton Hoffman,46,Atlanta,B+,PhD,Employed,110000,Good,770,5/17/2020
+6711,Lindsey Cherry,15,Atlanta,O+,Associate,Unemployed,0,Poor,710,10/3/2022
+4962,Jordan Valdez,47,Atlanta,O-,High School,Gig-Worker,38000,Average,610,9/24/2020
+1648,Misty Clark,21,Atlanta,B-,Bachelors,Employed,95000,Excellent,790,10/12/2019
+7418,Rebecca Fuller,19,Atlanta,A+,Master's,Retired,55000,Good,730,3/11/2022
+1202,John Lopez,64,Atlanta,AB-,Master's,Student,0,Excellent,710,11/3/2021
+7318,Christina Williams,36,Atlanta,A+,PhD,Employed,150000,Good,820,1/21/2023
+5148,Lauren Friedman,32,Atlanta,B-,Associate,Unemployed,0,Poor,710,2/14/2020
+4187,Andrea Morgan,67,Atlanta,AB-,High School,Gig-Worker,22000,Average,540,8/17/2023
+5514,Angela Gilbert,27,Atlanta,O+,Bachelors,Self-Employed,80000,Excellent,760,8/30/2020
+1488,Faith Foster,21,Atlanta,A+,PhD,Unemployed,0,Poor,380,5/6/2020
+8694,Tanner Burgess,23,Atlanta,B+,Associate,Employed,12000,Average,630,3/25/2024
+5244,Elizabeth Taylor,55,Atlanta,B-,High School,Employed,60000,Excellent,800,11/8/2020
+6872,Elizabeth Hunt,33,Atlanta,A-,Bachelors,Student,15000,Good,710,9/9/2019
+8592,Erin Ryan,24,Atlanta,B+,Master's,Self-Employed,1.00E+05,Average,680,5/29/2019
+8716,Mr. Cody Navarro,37,Atlanta,A+,PhD,Employed,150000,Excellent,880,2/22/2021
+1850,Laurie Garcia,40,Atlanta,B-,High School,Unemployed,0,Poor,710,5/1/2021
+9930,Devin Shelton,26,Atlanta,B-,Bachelors,Self-Employed,80000,Average,630,5/4/2022
+7687,Oscar Nelson,46,Atlanta,AB+,PhD,Student,20000,Good,710,6/27/2023
+4700,Taylor Brown,18,Atlanta,AB+,Associate,Employed,30000,Excellent,760,5/5/2023
+3363,Aaron Oneal,48,Atlanta,A-,Master's,Unemployed,0,Poor,710,9/22/2019
+1977,John Miller,22,Atlanta,B-,PhD,Gig-Worker,45000,Average,590,10/22/2023
+8740,Brittany Watson,34,Atlanta,A+,High School,Employed,60000,Excellent,810,9/2/2021
+1846,John Moore,50,Atlanta,O-,Bachelors,Student,0,Good,710,6/30/2021
+2786,Joseph Livingston,50,Atlanta,AB-,PhD,Self-Employed,120000,Average,660,1/28/2024
+4439,Andrew Brooks,21,Atlanta,AB+,Associate,Unemployed,0,Poor,710,5/19/2022
+7871,Harold Webb,46,Atlanta,B-,PhD,Employed,130000,Good,740,9/21/2022
+8771,Douglas King,42,Atlanta,B-,Master's,Student,0,Excellent,710,12/6/2020
+4035,Jessica Franklin,19,Atlanta,A-,PhD,Employed,90000,Good,800,4/7/2023
+9015,John Howard,70,Atlanta,AB-,Associate,Unemployed,0,Poor,710,10/30/2022
+2520,Robyn Thompson,18,Atlanta,B+,High School,Employed,25000,Excellent,740,11/12/2019
+3539,Isaac Morales,46,Atlanta,AB-,Bachelors,Self-Employed,70000,Average,670,8/23/2020
+3448,Jason Smith,24,Atlanta,AB+,PhD,Retired,40000,Good,710,1/11/2021
+3007,Donna Johnson,28,Atlanta,A-,Associate,Gig-Worker,42000,Average,640,10/17/2019
+3512,Denise Guerrero,44,Atlanta,A-,High School,Employed,55000,Excellent,780,5/9/2019
+9925,David Chandler,24,Atlanta,AB+,Bachelors,Student,18000,Good,710,6/20/2020
+8442,Michelle Bender,40,Atlanta,O-,Master's,Self-Employed,140000,Excellent,850,7/21/2020
+7210,Jesse Molina,29,Atlanta,AB-,PhD,Unemployed,0,Poor,420,5/22/2019
+1834,Rita Nelson,89,Atlanta,B+,PhD,Employed,1.00E+05,Average,750,9/15/2019
+7794,Janet Boyd,35,Atlanta,B+,Associate,Unemployed,0,Good,710,12/23/2019
+6463,Catherine Welch,56,Atlanta,A-,High School,Gig-Worker,30000,Poor,580,7/25/2020
+6039,Jason Davis,19,Atlanta,AB-,Bachelors,Employed,85000,Excellent,720,11/15/2019
+4401,Christopher Reynolds,34,Atlanta,B-,Master's,Retired,50000,Average,700,9/15/2020
+8303,Leah Martinez,17,Atlanta,O-,PhD,Unemployed,0,Poor,710,8/8/2023
+2266,Michael Duarte,44,Atlanta,AB-,Associate,Employed,40000,Good,650,5/23/2021
+7096,Laura Baker,40,Atlanta,AB-,High School,Student,0,Excellent,710,7/22/2020
+7118,Charles Thompson,37,Atlanta,A+,Bachelors,Self-Employed,0,Poor,450,6/1/2022
+1533,Julia Wade,24,Atlanta,A-,PhD,Unemployed,0,Average,400,1/1/2024
+3934,Gloria Vance,37,Atlanta,O+,PhD,Employed,110000,Good,770,4/25/2024
+3903,John Atkins,20,Atlanta,O+,Associate,Unemployed,0,Poor,710,8/30/2019
+6718,Angela Miller,34,Atlanta,A-,High School,Gig-Worker,38000,Average,610,3/3/2023
+3519,Maria Sutton,32,Atlanta,A-,Bachelors,Employed,95000,Excellent,790,1/16/2020
+1557,Lauren Taylor,53,Atlanta,B-,Master's,Retired,55000,Good,730,3/15/2024
+5973,Eric Pineda,53,Atlanta,O+,PhD,Employed,150000,Excellent,880,10/12/2022
+4664,Douglas Turner,59,Atlanta,B+,High School,Unemployed,0,Poor,710,3/1/2020
+5227,Dorothy Quinn,21,Atlanta,O+,Bachelors,Self-Employed,80000,Average,630,5/25/2022
+2570,Christina Dyer,43,Atlanta,O-,PhD,Student,20000,Good,710,5/4/2021
+1706,Alexandria Coleman,66,Atlanta,O+,Associate,Employed,30000,Excellent,760,6/20/2023
+1927,Victoria Evans,35,Atlanta,B+,Master's,Unemployed,0,Poor,710,1/9/2020
+1328,Willie may,40,Atlanta,AB-,PhD,Gig-Worker,45000,Average,590,1/29/2024
+1047,Joseph Ellis,28,Atlanta,A+,High School,Employed,60000,Excellent,810,10/14/2021
+8293,Isaac Peterson,18,Atlanta,O+,Bachelors,Student,0,Good,710,1/11/2020
+5532,William Bass,35,Atlanta,B+,PhD,Self-Employed,120000,Average,660,8/24/2021
+6518,Michael Evans,25,Atlanta,B+,Associate,Unemployed,0,Poor,710,12/7/2020
+9855,Andrew Hill,25,Atlanta,O+,PhD,Employed,130000,Good,740,12/13/2021
+7588,Herbert Jimenez,59,Atlanta,AB-,Bachelors,Employed,80000,Good,720,1/3/2024
+4439,Sandra Murphy,67,Atlanta,A-,Associate,Unemployed,0,Excellent,710,11/29/2019
+4537,Michael Elliott,55,Atlanta,A-,PhD,Self-Employed,120000,Poor,550,9/8/2019
+6824,Mary Savage,26,Atlanta,O+,High School,Employed,45000,Excellent,800,1/12/2021
+1169,Cheryl Foster,18,Atlanta,O+,Master's,Retired,50000,Average,680,10/9/2020
+4658,Mr. David Bowen,32,Atlanta,B-,PhD,Student,0,Good,710,9/24/2023
+6286,Christopher Wilson,24,Atlanta,A+,PhD,Unemployed,32000,Poor,400,10/4/2022
+1745,Matthew Shannon,20,Atlanta,A+,Associate,Employed,65000,Excellent,750,6/24/2019
+3819,Jill Cunningham,16,Atlanta,O-,High School,Self-Employed,30000,Excellent,600,3/22/2022
+2508,Christina Brown,22,Atlanta,B+,PhD,Employed,1.00E+05,Average,790,4/30/2023
+2136,Connie Page,35,Atlanta,A+,PhD,Retired,0,Average,537,2/6/2024
+7366,David Lopez,18,Atlanta,A+,Bachelors,Unemployed,0,Excellent,710,4/9/2024
+9514,James Williams,49,Atlanta,A-,High School,Unemployed,0,Good,457,12/1/2021
+4441,Andrew Yang,29,Atlanta,AB-,PhD,Unemployed,0,Excellent,710,10/3/2020
+3693,Maureen Dunn,28,Atlanta,B-,Bachelors,Retired,0,Excellent,710,1/6/2023
+2030,Andrew Arnold,25,Atlanta,A-,PhD,Student,0,Excellent,710,2/25/2022
+8925,Mrs. Courtney Moore Md,58,Atlanta,AB+,Master's,Self-Employed,135068,Average,794,9/19/2019
+3874,Raymond Bruce,26,Atlanta,AB+,PhD,Employed,-50975,Good,710,5/13/2020
+9266,Samantha Bates,50,Atlanta,O-,Master's,Unemployed,0,Good,814,6/14/2019
+9935,Matthew Burnett,28,Atlanta,AB-,PhD,Self-Employed,-102073,Poor,780,4/29/2021
+9775,Linda Butler,1,Atlanta,O+,High School,Freelance,25000,Excellent,720,11/7/2023
+9267,Angela Wiley,34,Atlanta,A-,PhD,Student,15000,Good,710,5/13/2020
+6011,Austin Anderson,36,Atlanta,AB-,Master's,Retired,35000,Average,650,7/14/2020
+8806,Deborah Garner,43,Atlanta,A+,Bachelors,Self-Employed,150000,Poor,500,10/12/2021
+9862,Eric Smith,34,Atlanta,AB-,Associate,Unemployed,0,Excellent,710,10/23/2020
+7483,Carrie Whitehead,45,Atlanta,O-,PhD,Employed,110000,Good,830,3/3/2024
+3608,Dominique Maldonado,28,Atlanta,A-,Master's,Retired,48000,Excellent,750,3/11/2020
+1378,Jorge Singh,30,Atlanta,O+,High School,Employed,30000,Poor,420,8/29/2023
+8582,Jill Lane,51,Atlanta,AB-,Bachelors,Student,0,Excellent,710,6/17/2020
+9443,James Nguyen,43,Atlanta,AB+,PhD,Self-Employed,0,Poor,480,2/26/2023
+4231,Debbie Shaw,22,Atlanta,A+,PhD,Unemployed,0,Excellent,710,2/8/2021
+1652,Emily Valdez,28,Atlanta,B+,High School,Employed,40000,Good,720,1/8/2022
+5960,Alejandro Pierce,22,Atlanta,B-,Bachelors,Student,0,Excellent,710,2/10/2023
+5521,Omar Lopez,60,Atlanta,AB-,PhD,Self-Employed,60000,Poor,580,9/3/2020
+8671,Marilyn Figueroa,50,Atlanta,B-,Master's,Unemployed,0,Average,650,5/14/2019
+3135,Sara Green,32,Atlanta,A+,PhD,Retired,75000,Excellent,810,6/2/2023
+4239,Jessica Miller,40,Atlanta,AB-,Associate,Employed,50000,Good,780,2/1/2023
+7050,Jonathan Garcia,34,Atlanta,AB-,High School,Unemployed,0,Poor,710,10/6/2022
+4657,John Thompson,15,Atlanta,B+,Bachelors,Employed,20000,Excellent,700,4/30/2024
+3655,Clifford Bell,62,Atlanta,A-,Master's,Self-Employed,1.00E+05,Average,690,5/15/2020
+3104,Charles Finley,15,Atlanta,A-,PhD,Student,0,Good,710,4/17/2024
+3490,Mrs. Monica Craig,40,Atlanta,O-,PhD,Employed,120000,Excellent,830,9/17/2019
+1377,Heidi Evans,16,Atlanta,A+,Associate,Unemployed,0,Poor,550,6/16/2019
+4682,Mr. Timothy Howard,23,Atlanta,A+,High School,Gig-Worker,35000,Average,620,5/4/2021
+5400,Mario Cox,26,Atlanta,B-,Bachelors,Employed,80000,Good,750,1/6/2022
+8760,Luis Barnes,33,Atlanta,O-,Master's,Retired,55000,Excellent,790,8/12/2020
+4567,Sydney Tucker,37,Atlanta,AB+,PhD,Unemployed,0,Poor,710,9/21/2022
+2145,Andre Harvey,47,Atlanta,AB-,Associate,Employed,45000,Average,680,10/4/2022
+9508,Kimberly Vasquez,39,Atlanta,A-,High School,Student,15000,Good,710,10/23/2023
+5396,Benjamin Kerr,28,Atlanta,B+,Bachelors,Self-Employed,110000,Excellent,820,7/4/2022
+7063,Alexis Simmons,63,Atlanta,A-,PhD,Unemployed,0,Poor,480,3/31/2022
+1612,David Hensley,26,Atlanta,AB+,PhD,Employed,130000,Average,710,3/3/2020
+7994,Christine Dyer,35,Atlanta,O+,Associate,Unemployed,0,Good,710,1/8/2021
+5718,Shari Williams,46,Atlanta,B+,High School,Gig-Worker,28000,Poor,520,8/17/2021
+7674,Tammy Jackson,55,Atlanta,A-,Bachelors,Employed,90000,Excellent,770,2/14/2024
+5838,Kimberly Crawford,23,Atlanta,AB-,Master's,Retired,60000,Average,740,7/8/2021
+6398,Donna Smith,27,Atlanta,B+,PhD,Unemployed,0,Poor,710,8/29/2019
+2748,Taylor Petersen,28,Atlanta,A+,Associate,Employed,50000,Good,690,7/20/2023
+9571,Chris Stevenson,22,Atlanta,A-,High School,Student,0,Excellent,710,10/10/2019
+3625,Leslie Collins,16,Atlanta,O-,Bachelors,Self-Employed,120000,Excellent,840,11/12/2019
+9956,Deborah Moore,22,Atlanta,O+,PhD,Unemployed,0,Average,450,3/9/2020
+6807,James Horton,83,Atlanta,A+,PhD,Employed,140000,Good,730,8/23/2021
+5653,Karla Crawford,30,Atlanta,O+,Associate,Unemployed,0,Poor,710,10/10/2023
+1625,Peter Spencer,17,Baltimore,O-,High School,Gig-Worker,32000,Average,600,3/10/2021
+8000,Lisa Mcclure,26,Baltimore,A-,Bachelors,Employed,1.00E+05,Excellent,790,9/7/2022
+4648,Marilyn Tran,21,Baltimore,AB-,Master's,Retired,65000,Good,760,7/4/2023
+5795,Nicole Harrison,61,Baltimore,O+,Master's,Student,0,Excellent,710,6/21/2022
+6374,Chad Maldonado,46,Baltimore,O-,PhD,Employed,90000,Good,800,7/5/2019
+6486,Ariana Brown,27,Baltimore,B+,Associate,Unemployed,0,Poor,710,2/10/2020
+2223,Robert Dunn,21,Baltimore,B+,High School,Employed,25000,Excellent,740,9/12/2022
+9887,Teresa Harrison,16,Baltimore,O-,Bachelors,Self-Employed,70000,Average,670,6/14/2021
+5319,Thomas Arnold,21,Baltimore,A-,PhD,Retired,40000,Good,710,2/9/2021
+7679,Crystal Simpson,44,Baltimore,A+,Associate,Gig-Worker,42000,Average,640,11/16/2023
+6229,George Phillips,34,Baltimore,A-,High School,Employed,55000,Excellent,780,3/21/2021
+1294,Jeffrey Gutierrez,25,Baltimore,B-,Bachelors,Student,18000,Good,710,6/23/2021
+1360,Paul Mack,23,Baltimore,B+,Master's,Self-Employed,140000,Excellent,850,5/14/2023
+8658,Kimberly Ramirez,30,Baltimore,B-,PhD,Unemployed,0,Poor,420,2/1/2024
+9397,Sarah Villarreal,26,Baltimore,O+,PhD,Employed,1.00E+05,Average,750,6/20/2023
+2001,Chloe Hunt,36,Baltimore,O-,Associate,Unemployed,0,Good,710,12/5/2019
+8071,Heidi Pope,21,Baltimore,B+,High School,Gig-Worker,30000,Poor,580,11/22/2021
+6829,Megan Gray,27,Baltimore,AB-,Bachelors,Employed,85000,Excellent,720,7/29/2023
+6746,Sandra Soto,30,Baltimore,AB+,Master's,Retired,50000,Average,700,5/24/2019
+3202,Brenda Le,19,Baltimore,A+,PhD,Unemployed,0,Poor,710,10/27/2020
+2311,Lori Rivas,31,Baltimore,A-,Associate,Employed,40000,Good,650,9/18/2020
+1667,Roger Hamilton,34,Baltimore,O-,High School,Student,0,Excellent,710,5/16/2020
+5730,Melissa Waller,24,Baltimore,B-,Bachelors,Self-Employed,0,Poor,450,5/15/2020
+5311,Darryl Williams,31,Baltimore,AB+,PhD,Unemployed,0,Average,400,6/26/2021
+1309,Monica Walker,33,Baltimore,A-,PhD,Employed,110000,Good,770,2/10/2021
+4342,Teresa Campbell,24,Baltimore,A-,Associate,Unemployed,0,Poor,710,5/23/2020
+3499,Frederick Mcintosh,25,Baltimore,O+,High School,Gig-Worker,38000,Average,610,9/23/2020
+4463,Debra Harris,22,Baltimore,A-,Bachelors,Employed,95000,Excellent,790,6/23/2023
+2833,Chad Green,23,Baltimore,A+,Master's,Retired,55000,Good,730,10/21/2021
+6237,Terry Martin,52,Baltimore,O+,PhD,Unemployed,0,Excellent,710,9/27/2022
+5854,Madison Palmer,34,Baltimore,A+,Associate,Unemployed,0,Poor,710,11/12/2020
+7107,Michael Jones,32,Baltimore,A+,Master's,Self-Employed,120000,Good,810,10/30/2023
+9695,Michael Newman,26,Baltimore,A+,PhD,Employed,15000,Excellent,690,1/20/2022
+6804,Lindsey Turner,39,Baltimore,B+,PhD,Gig-Worker,50000,Average,700,12/14/2021
+8561,Nicole Hall,28,Baltimore,A+,Associate,Self-Employed,80000,Poor,590,4/13/2022
+5697,Leslie Roth,29,Baltimore,B-,Master's,Student,0,Excellent,710,3/27/2024
+7702,Robert Roberts,37,Baltimore,A-,PhD,Employed,90000,Good,800,3/18/2024
+8569,Eric Torres,19,Baltimore,B+,Associate,Unemployed,0,Poor,710,1/6/2023
+7401,Rebecca Moore,22,Baltimore,O+,High School,Employed,25000,Excellent,740,9/3/2019
+5245,Steve Goodman,27,Baltimore,O+,Bachelors,Self-Employed,70000,Average,670,2/9/2023
+1368,Teresa Strong,32,Baltimore,B-,PhD,Retired,40000,Good,710,3/31/2022
+4201,Brandon Smith,18,Baltimore,AB-,Associate,Gig-Worker,42000,Average,640,12/15/2019
+9643,Monica White,21,Baltimore,AB-,High School,Employed,55000,Excellent,780,3/12/2022
+4358,Sara Harris,25,Baltimore,AB+,Bachelors,Student,18000,Good,710,3/4/2023
+6443,Kathleen Sandoval,17,Baltimore,AB-,Master's,Self-Employed,140000,Excellent,850,8/25/2019
+6397,Caroline Miller,19,Baltimore,AB-,PhD,Unemployed,0,Poor,420,4/27/2022
+9364,Jennifer Baker,20,Baltimore,AB+,PhD,Employed,1.00E+05,Average,750,1/29/2024
+9405,Kristina Payne,28,Baltimore,AB+,Associate,Unemployed,0,Good,710,3/13/2021
+4931,Stacy Jones,17,Baltimore,AB+,High School,Gig-Worker,30000,Poor,580,11/28/2023
+6804,Michael Ramos,37,Baltimore,AB-,Bachelors,Employed,85000,Excellent,720,5/25/2020
+7605,Michael Meza,36,Baltimore,O+,Master's,Retired,50000,Average,700,2/1/2022
+5493,Randy Shaw,40,Baltimore,B+,PhD,Unemployed,0,Poor,710,2/6/2020
+1134,Ann Sullivan,48,Baltimore,B-,Associate,Employed,40000,Good,650,2/8/2024
+3636,Amy White,19,Baltimore,B+,High School,Student,0,Excellent,710,2/9/2023
+2455,Nicholas Sullivan,17,Baltimore,B+,Bachelors,Self-Employed,0,Poor,450,12/15/2020
+9366,Jennifer Johnson,18,Baltimore,AB+,PhD,Unemployed,0,Average,400,2/29/2024
+4321,Jonathan Young,27,Baltimore,B+,PhD,Employed,110000,Good,770,2/18/2024
+1393,Glenn Rodriguez,49,Baltimore,A+,Associate,Unemployed,0,Poor,710,7/2/2023
+1334,Christopher Hurst,65,Baltimore,AB+,High School,Gig-Worker,38000,Average,610,5/30/2020
+4655,Patrick Smith,30,Baltimore,AB-,Bachelors,Employed,95000,Excellent,790,4/16/2021
+6118,Mark Lane,21,Baltimore,AB+,Master's,Retired,55000,Good,730,9/16/2021
+3044,Amanda Wilson,54,Baltimore,B-,Master's,Student,0,Excellent,710,7/23/2021
+1494,Carrie Scott,19,Baltimore,AB-,PhD,Employed,150000,Good,820,3/12/2021
+4010,Dalton Tucker,17,Baltimore,A-,Associate,Unemployed,0,Poor,710,5/26/2019
+3402,Cynthia Williams,39,Baltimore,A-,High School,Gig-Worker,22000,Average,540,11/1/2023
+3328,Steven Price,18,Baltimore,AB+,Bachelors,Self-Employed,80000,Excellent,760,6/11/2022
+1615,Anna Clements,16,Baltimore,A-,PhD,Unemployed,0,Poor,380,3/11/2022
+7490,Heidi Buchanan,23,Baltimore,A-,Associate,Employed,12000,Average,630,4/3/2023
+5772,Annette Pruitt,23,Baltimore,A-,High School,Employed,60000,Excellent,800,3/24/2021
+4247,Kari Wells,16,Baltimore,AB+,Bachelors,Student,15000,Good,710,7/9/2021
+2335,Jay Galloway,21,Baltimore,O+,Master's,Self-Employed,1.00E+05,Average,680,1/20/2021
+6901,Clifford Lee,21,Baltimore,A-,PhD,Employed,150000,Excellent,880,5/22/2020
+2846,Melissa Nguyen,39,Baltimore,A-,High School,Unemployed,0,Poor,710,9/19/2022
+1433,Zachary Reed,25,Baltimore,AB-,Bachelors,Self-Employed,80000,Average,630,8/12/2023
+9501,Judy Ruiz,20,Baltimore,O+,PhD,Student,20000,Good,710,8/9/2020
+6628,David Bowman,16,Baltimore,O+,Associate,Employed,30000,Excellent,760,6/19/2023
+8061,Erica Stevens,25,Baltimore,O+,Master's,Unemployed,0,Poor,710,9/3/2019
+6319,Jordan Warren,45,Baltimore,O+,PhD,Gig-Worker,45000,Average,590,10/16/2022
+2259,Lee White,23,Baltimore,AB-,High School,Employed,60000,Excellent,810,10/31/2021
+5150,Julie Gonzalez,29,Baltimore,B+,Bachelors,Student,0,Good,710,8/19/2022
+5562,Summer Herman,23,Baltimore,A-,PhD,Self-Employed,120000,Average,660,8/9/2023
+1306,Angela Cox,18,Baltimore,O-,Associate,Unemployed,0,Poor,710,12/2/2020
+3797,Steven Williams,25,Baltimore,AB-,PhD,Employed,130000,Good,740,8/23/2019
+3098,Susan Lee,35,Baltimore,AB+,Master's,Student,0,Excellent,710,9/14/2021
+9382,William Rodriguez,36,Baltimore,B-,PhD,Employed,90000,Good,800,4/21/2020
+4620,Mike Mcbride,30,Baltimore,AB+,Associate,Unemployed,0,Poor,710,8/7/2023
+5266,Heather Carter,22,Baltimore,B+,High School,Employed,25000,Excellent,740,7/13/2020
+7037,Elizabeth Ibarra,31,Baltimore,B-,Bachelors,Self-Employed,70000,Average,670,7/31/2019
+8338,Grace Hawkins,16,Baltimore,O+,PhD,Retired,40000,Good,710,5/11/2022
+4552,Kiara Clark,24,Baltimore,A-,Associate,Gig-Worker,42000,Average,640,2/3/2021
+3075,Kimberly Welch,31,Baltimore,AB-,High School,Employed,55000,Excellent,780,11/23/2023
+8808,Jeffrey Bailey,18,Baltimore,A+,Bachelors,Student,18000,Good,710,1/31/2023
+4850,John Fox,23,Baltimore,A+,Master's,Self-Employed,140000,Excellent,850,4/20/2024
+3842,Shaun Acosta,23,Baltimore,O+,PhD,Unemployed,0,Poor,420,11/20/2023
+8946,Roger Soto,24,Baltimore,B-,PhD,Employed,1.00E+05,Average,750,7/5/2019
+7034,Hannah Barton,23,Baltimore,AB+,Associate,Unemployed,0,Good,710,6/2/2019
+2736,Christopher Castillo,26,Baltimore,B+,High School,Gig-Worker,30000,Poor,580,4/6/2020
+5896,Larry Singleton,25,Baltimore,A-,Bachelors,Employed,85000,Excellent,720,4/5/2022
+1164,Thomas Donaldson,23,Baltimore,AB-,Master's,Retired,50000,Average,700,6/26/2019
+7350,Timothy Meadows,17,Baltimore,O-,PhD,Unemployed,0,Poor,710,3/15/2023
+8832,Daniel Brooks,22,Baltimore,AB-,Associate,Employed,40000,Good,650,8/26/2022
+8247,Tim Davis,29,Baltimore,B+,High School,Student,0,Excellent,710,2/6/2020
+8318,Theresa Wright,29,Baltimore,B-,Bachelors,Self-Employed,0,Poor,450,3/19/2024
+2962,Brian Downs,30,Baltimore,AB-,PhD,Unemployed,0,Average,400,7/7/2022
+7032,Thomas Lee,19,Baltimore,AB+,PhD,Employed,110000,Good,770,1/19/2024
+2234,Curtis Garcia,21,Baltimore,A-,Associate,Unemployed,0,Poor,710,1/13/2022
+6090,Tammy Rivers,16,Baltimore,B-,High School,Gig-Worker,38000,Average,610,4/26/2020
+9541,Brandon Johnson,22,Baltimore,AB+,Bachelors,Employed,95000,Excellent,790,12/21/2023
+7303,Peter Richardson,23,Baltimore,AB+,Master's,Retired,55000,Good,730,1/4/2020
+9126,Mrs. Rachel Spencer,19,Baltimore,A+,PhD,Employed,150000,Excellent,880,2/8/2020
+4437,Christopher Green,22,Baltimore,AB-,High School,Unemployed,0,Poor,710,4/29/2022
+2107,William Sims,18,Baltimore,B+,Bachelors,Self-Employed,80000,Average,630,4/5/2020
+1740,Lisa Booker,49,Baltimore,O+,PhD,Student,20000,Good,710,12/2/2019
+1680,Bonnie Buckley,52,Baltimore,A-,Associate,Employed,30000,Excellent,760,3/19/2021
+8445,Elizabeth Michael,31,Baltimore,B-,Master's,Unemployed,0,Poor,710,10/7/2023
+5332,Jason Lynch,30,Baltimore,A+,PhD,Gig-Worker,45000,Average,590,9/10/2021
+5652,Amber Ortiz,32,Baltimore,O+,High School,Employed,60000,Excellent,810,10/14/2021
+5995,Susan Lynch,19,Baltimore,AB+,Bachelors,Student,0,Good,710,10/24/2023
+9203,Andrew Walsh,27,Baltimore,B-,PhD,Self-Employed,120000,Average,660,12/28/2022
+2479,Mary Bell,17,Baltimore,O+,Associate,Unemployed,0,Poor,710,12/31/2023
+3808,Monica James,18,Baltimore,B+,PhD,Employed,130000,Good,740,2/7/2022
+4693,Amy Osborne,26,Baltimore,A+,Bachelors,Employed,80000,Good,720,6/12/2020
+1940,Zachary Rice,31,Baltimore,AB-,Associate,Unemployed,0,Excellent,710,10/16/2022
+4687,Anthony Jones,24,Baltimore,AB-,PhD,Self-Employed,120000,Poor,550,1/11/2022
+3112,Christina Burns,72,Baltimore,B+,High School,Employed,45000,Excellent,800,11/13/2022
+3949,Katherine Bass,28,Baltimore,O-,Master's,Retired,50000,Average,680,7/24/2022
+9375,Claudia Tyler,30,Baltimore,AB+,PhD,Student,0,Good,710,6/25/2019
+8070,Robert Edwards,33,Baltimore,AB-,PhD,Unemployed,32000,Poor,400,6/19/2020
+7670,Jill Serrano,31,Baltimore,AB+,Associate,Employed,65000,Excellent,750,2/6/2020
+6103,Troy Gould,29,Baltimore,A+,High School,Self-Employed,30000,Excellent,600,12/17/2023
+6931,John Hobbs,32,Baltimore,B-,PhD,Employed,1.00E+05,Average,790,8/5/2022
+7184,Mark Hunter,18,Baltimore,O+,PhD,Retired,0,Average,537,9/28/2020
+2315,Christina Miller,44,Baltimore,O+,Bachelors,Unemployed,0,Excellent,710,9/16/2020
+2112,Andrea Torres,18,Baltimore,A-,High School,Unemployed,0,Good,457,1/27/2020
+7101,Christian Washington Md,17,Baltimore,A-,PhD,Unemployed,0,Excellent,710,6/11/2020
+7786,Christopher Charles,28,Baltimore,B-,Bachelors,Retired,0,Excellent,710,12/4/2019
+3099,Sara Hall,15,Baltimore,A+,PhD,Student,0,Excellent,710,12/5/2020
+5635,Joshua Patel,22,Baltimore,A-,Master's,Self-Employed,135068,Average,794,5/22/2021
+3895,Brianna Moreno,36,Baltimore,O+,PhD,Employed,-50975,Good,710,6/2/2022
+3924,Jenna Turner,40,Baltimore,B-,Master's,Unemployed,0,Good,814,7/31/2022
+1861,Jeffrey Long,23,Baltimore,B+,PhD,Self-Employed,-102073,Poor,780,8/16/2019
+7005,Alexander Bishop,43,Baltimore,AB-,High School,Freelance,25000,Excellent,720,2/8/2022
+2021,John Young,26,Baltimore,A+,PhD,Student,15000,Good,710,3/23/2021
+5904,Heather Sanchez,21,Baltimore,A+,Master's,Retired,35000,Average,650,2/17/2021
+8806,Amanda White,35,Baltimore,O+,Bachelors,Self-Employed,150000,Poor,500,6/1/2019
+6317,Bruce Cox,24,Baltimore,A+,Associate,Unemployed,0,Excellent,710,9/24/2020
+5597,George Wolfe,40,Baltimore,B-,PhD,Employed,110000,Good,830,8/1/2019
+6564,Shannon Williamson,53,Baltimore,A-,Master's,Retired,48000,Excellent,750,5/31/2021
+8071,Julie Rivas,27,Baltimore,O+,High School,Employed,30000,Poor,420,9/15/2022
+7364,Roger Escobar,36,Baltimore,O+,Bachelors,Student,0,Excellent,710,11/19/2020
+3627,Tammy Hall,36,Baltimore,A-,PhD,Self-Employed,0,Poor,480,7/27/2019
+5580,Tyler Campbell,28,Baltimore,O-,PhD,Unemployed,0,Excellent,710,6/30/2021
+2153,Nicholas Garcia,28,Baltimore,B-,High School,Employed,40000,Good,720,3/21/2022
+3623,Desiree Frazier,21,Baltimore,AB-,Bachelors,Student,0,Excellent,710,4/22/2024
+3806,Bianca Johnson,25,Baltimore,B+,PhD,Self-Employed,60000,Poor,580,8/27/2021
+6693,Wendy Cain,52,Baltimore,O+,Master's,Unemployed,0,Average,650,10/17/2022
+6777,Veronica Meyer,30,Baltimore,O-,PhD,Retired,75000,Excellent,810,3/9/2024
+3257,Elizabeth Ramirez,39,Baltimore,O+,Associate,Employed,50000,Good,780,6/4/2023
+1699,Brett Stevens,31,Baltimore,AB+,High School,Unemployed,0,Poor,710,8/4/2020
+4361,Mario Haley,40,Baltimore,O+,Bachelors,Employed,20000,Excellent,700,12/26/2022
+8670,Patrick Owens,25,Baltimore,B+,Master's,Self-Employed,1.00E+05,Average,690,6/19/2021
+9120,Karen Clark,53,Baltimore,B-,PhD,Student,0,Good,710,11/29/2021
+8474,Sarah Jensen,15,Baltimore,A+,PhD,Employed,120000,Excellent,830,7/14/2019
+8508,Christopher Marshall,59,Baltimore,B-,Associate,Unemployed,0,Poor,550,8/15/2019
+8371,Brenda Davis,29,Baltimore,B-,High School,Gig-Worker,35000,Average,620,3/16/2021
+9094,Angela Young Md,37,Baltimore,A+,Bachelors,Employed,80000,Good,750,2/14/2023
+9811,Brian Smith,23,Baltimore,B-,Master's,Retired,55000,Excellent,790,5/31/2022
+5914,Rebecca James,24,Baltimore,O+,PhD,Unemployed,0,Poor,710,3/31/2023
+2177,Jacob Farmer,25,Baltimore,B-,Associate,Employed,45000,Average,680,3/22/2021
+5286,Daniel Flores,20,Baltimore,AB+,High School,Student,15000,Good,710,11/16/2021
+5843,Marcus Gillespie,22,Baltimore,AB-,Bachelors,Self-Employed,110000,Excellent,820,10/26/2022
+6519,Susan Johnson,24,Baltimore,AB-,PhD,Unemployed,0,Poor,480,10/30/2020
+3668,Marie Turner,26,Baltimore,AB+,PhD,Employed,130000,Average,710,5/3/2023
+1045,Brian Larson,18,Baltimore,AB-,Associate,Unemployed,0,Good,710,1/21/2021
+7414,Antonio Contreras,29,Baltimore,O-,High School,Gig-Worker,28000,Poor,520,12/11/2023
+4166,Melanie Morales,41,Baltimore,B-,Bachelors,Employed,90000,Excellent,770,12/18/2020
+5184,Amanda Hebert,27,Baltimore,A+,Master's,Retired,60000,Average,740,6/20/2022
+2098,James Ward,37,Baltimore,O-,PhD,Unemployed,0,Poor,710,12/2/2020
+3174,Nicole Flynn,30,Baltimore,O-,Associate,Employed,50000,Good,690,3/5/2024
+5941,Thomas Sutton,42,Baltimore,A+,High School,Student,0,Excellent,710,3/7/2023
+1933,Brandi Woodard,25,Baltimore,AB-,Bachelors,Self-Employed,120000,Excellent,840,12/10/2021
+3662,Jacob Cunningham,44,Baltimore,O-,PhD,Unemployed,0,Average,450,7/13/2019
+9617,Mark Armstrong,21,Baltimore,AB-,PhD,Employed,140000,Good,730,8/11/2020
+8126,Mark Rodriguez,20,Baltimore,O+,Associate,Unemployed,0,Poor,710,3/4/2022
+8990,Jimmy Jones,35,Baltimore,AB-,High School,Gig-Worker,32000,Average,600,6/3/2020
+4056,David Howard,18,Baltimore,O-,Bachelors,Employed,1.00E+05,Excellent,790,12/30/2023
+4886,Amanda Mills,28,Baltimore,A-,Master's,Retired,65000,Good,760,6/4/2020
+8825,Daniel Moore,20,Baltimore,O-,Master's,Student,0,Excellent,710,10/21/2019
+2182,Michael Bruce,19,Baltimore,A+,PhD,Employed,90000,Good,800,6/4/2021
+7390,Timothy Bennett,27,Baltimore,O-,Associate,Unemployed,0,Poor,710,11/30/2020
+5405,Carlos Burton,27,Baltimore,A+,High School,Employed,25000,Excellent,740,10/8/2023
+4841,Nicole Nguyen,29,Baltimore,O-,Bachelors,Self-Employed,70000,Average,670,6/17/2022
+3079,Matthew Harper,30,Baltimore,A-,PhD,Retired,40000,Good,710,2/28/2021
+2908,Jamie Price,20,Baltimore,A-,Associate,Gig-Worker,42000,Average,640,7/19/2022
+7585,Thomas Hicks,28,Baltimore,AB-,High School,Employed,55000,Excellent,780,6/17/2020
+8350,Michelle Hughes,27,Baltimore,B-,Bachelors,Student,18000,Good,710,3/29/2024
+2396,Cassie Nelson,51,Baltimore,AB+,Master's,Self-Employed,140000,Excellent,850,8/1/2022
+1775,Eric Turner,17,Baltimore,A+,PhD,Unemployed,0,Poor,420,12/19/2022
+6715,Sharon Smith,40,Baltimore,AB-,PhD,Employed,1.00E+05,Average,750,11/30/2023
+6972,Nancy may,15,Baltimore,O-,Associate,Unemployed,0,Good,710,7/12/2020
+3032,Jesse Sutton,20,Baltimore,O-,Master's,Self-Employed,120000,Good,810,5/17/2023
+6279,Linda Kennedy,27,Baltimore,O+,PhD,Employed,15000,Excellent,690,10/30/2019
+2653,Allison Price,26,Baltimore,AB+,PhD,Gig-Worker,50000,Average,700,3/20/2022
+6230,Fred Snyder,26,Baltimore,O-,Associate,Self-Employed,80000,Poor,590,12/29/2021
+3179,Jorge Richard,23,Baltimore,AB+,Master's,Student,0,Excellent,710,9/18/2022
+5381,Jason Martinez,24,Baltimore,O-,PhD,Employed,90000,Good,800,3/4/2022
+5952,Samantha Garza,25,Baltimore,AB+,Associate,Unemployed,0,Poor,710,11/13/2021
+4504,Robert Nichols,40,Baltimore,O+,High School,Employed,25000,Excellent,740,5/18/2019
+8996,Brett Marshall,40,Baltimore,B+,Bachelors,Self-Employed,70000,Average,670,11/10/2021
+5366,Brianna Lee,46,Baltimore,A+,PhD,Retired,40000,Good,710,3/16/2021
+3841,Chase Good,37,Baltimore,O-,Associate,Gig-Worker,42000,Average,640,11/7/2022
+7098,Barbara Young,81,Baltimore,A-,High School,Employed,55000,Excellent,780,1/12/2020
+4674,Michael Christian,24,Baltimore,B+,Bachelors,Student,18000,Good,710,2/28/2023
+1854,Sean Gray,56,Baltimore,B+,Master's,Self-Employed,140000,Excellent,850,6/3/2022
+6177,Michael Hill,24,Baltimore,O+,PhD,Unemployed,0,Poor,420,11/21/2019
+2631,Briana Bowen,30,Baltimore,O+,PhD,Employed,1.00E+05,Average,750,4/18/2024
+5764,Jeff Moss,20,Baltimore,B-,Associate,Unemployed,0,Good,710,1/26/2021
+3299,Ronald Park,35,Baltimore,A+,High School,Gig-Worker,30000,Poor,580,9/9/2019
+3887,Matthew Rivera,19,Baltimore,O+,Bachelors,Employed,85000,Excellent,720,11/14/2019
+6923,Kimberly Singleton,21,Baltimore,AB+,Master's,Retired,50000,Average,700,12/2/2022
+1402,Sabrina Gonzalez,40,Baltimore,AB-,PhD,Unemployed,0,Poor,710,5/17/2020
+7128,Steven Thompson,16,Baltimore,O+,Associate,Employed,40000,Good,650,12/16/2020
+1669,Lauren Cuevas,33,Baltimore,B-,High School,Student,0,Excellent,710,8/19/2021
+7884,Michael Gomez,47,Baltimore,AB-,Bachelors,Self-Employed,0,Poor,450,10/10/2020
+6826,Denise Ramirez,39,Baltimore,O-,PhD,Unemployed,0,Average,400,8/8/2022
+3169,Jordan Brown,21,Baltimore,A-,PhD,Employed,110000,Good,770,7/31/2019
+3005,Dr. Dana Leonard,25,Baltimore,B+,Associate,Unemployed,0,Poor,710,5/27/2020
+9147,Eric Fernandez,19,Baltimore,A+,High School,Gig-Worker,38000,Average,610,7/10/2022
+7069,Scott Andersen,23,Baltimore,O+,Bachelors,Employed,95000,Excellent,790,8/31/2021
+2467,Dave Kennedy,26,Baltimore,A+,Master's,Retired,55000,Good,730,8/27/2022
+2841,Robert Burton,31,Baltimore,O+,Master's,Student,0,Excellent,710,3/30/2020
+9100,Stephanie Gibson,24,Baltimore,B+,PhD,Employed,150000,Good,820,10/31/2020
+5890,Bryan Harper,31,Baltimore,A+,Associate,Unemployed,0,Poor,710,9/27/2023
+4718,Diana Bennett,18,Baltimore,B+,High School,Gig-Worker,22000,Average,540,4/26/2020
+8381,Maria Carter,17,Baltimore,A+,Bachelors,Self-Employed,80000,Excellent,760,8/9/2021
+4492,Charles Johnson,24,Baltimore,A-,PhD,Unemployed,0,Poor,380,3/27/2022
+1745,Deanna Ferrell,30,Baltimore,AB-,Associate,Employed,12000,Average,630,2/27/2024
+5896,Jerry Cruz Dds,16,Baltimore,B-,High School,Employed,60000,Excellent,800,3/22/2023
+6963,Krista Caldwell,44,Baltimore,B+,Bachelors,Student,15000,Good,710,10/28/2023
+7184,Kimberly Mejia,22,Baltimore,B+,Master's,Self-Employed,1.00E+05,Average,680,4/6/2024
+4884,Barbara Clark,42,Baltimore,B+,PhD,Employed,150000,Excellent,880,2/27/2020
+3504,Michael Gomez,38,Baltimore,AB+,High School,Unemployed,0,Poor,710,7/26/2021
+5489,Joel Bowen,25,Baltimore,B+,Bachelors,Self-Employed,80000,Average,630,2/24/2021
+5667,Scott Martin,17,Baltimore,B-,PhD,Student,20000,Good,710,2/13/2021
+6620,Shawn King,31,Baltimore,A+,Associate,Employed,30000,Excellent,760,10/15/2020
+5918,Edwin Castillo,2,Baltimore,O-,Master's,Unemployed,0,Poor,710,3/20/2022
+4417,Robert Robbins,22,Baltimore,AB+,PhD,Gig-Worker,45000,Average,590,1/7/2024
+2789,Linda Wilson,36,Baltimore,A+,High School,Employed,60000,Excellent,810,2/26/2023
+9272,James White,33,Baltimore,AB+,Bachelors,Student,0,Good,710,6/2/2020
+8689,Alyssa Gonzalez,31,Baltimore,B-,PhD,Self-Employed,120000,Average,660,12/4/2020
+9476,James Hudson,13,Baltimore,O+,Associate,Unemployed,0,Poor,710,3/4/2024
+2970,Isabella Daniel,19,Baltimore,AB-,PhD,Employed,130000,Good,740,9/4/2023
+2730,Andrew Johnson,58,Baltimore,O-,Master's,Student,0,Excellent,710,1/15/2023
+2758,Becky Rivera,24,Baltimore,AB-,PhD,Employed,90000,Good,800,10/9/2022
+2130,Donna Bernard,24,Baltimore,B+,Associate,Unemployed,0,Poor,710,9/22/2020
+5938,Vickie Martinez,20,Baltimore,AB-,High School,Employed,25000,Excellent,740,12/20/2022
+6561,Stephanie Nielsen,24,Baltimore,AB-,Bachelors,Self-Employed,70000,Average,670,10/27/2020
+1342,Taylor Hunter,3,Baltimore,B+,PhD,Retired,40000,Good,710,10/12/2021
+8381,Emma Bennett,22,Baltimore,AB+,Associate,Gig-Worker,42000,Average,640,7/20/2023
+3505,Kelly Zamora,19,Baltimore,AB+,High School,Employed,55000,Excellent,780,4/11/2023
+7462,Kara Herring,25,Baltimore,AB+,Bachelors,Student,18000,Good,710,5/8/2021
+1226,Richard Hall,30,Baltimore,B-,Master's,Self-Employed,140000,Excellent,850,12/16/2019
+4898,Gregory Olson,36,Baltimore,AB-,PhD,Unemployed,0,Poor,420,12/27/2023
+5292,Maria Kramer,46,Baltimore,A+,PhD,Employed,1.00E+05,Average,750,2/9/2022
+1177,Kenneth Clark,25,Baltimore,AB-,Associate,Unemployed,0,Good,710,2/28/2022
+2617,Shannon Edwards,29,Baltimore,O+,High School,Gig-Worker,30000,Poor,580,4/21/2022
+9524,Ruth Adams,32,Baltimore,O+,Bachelors,Employed,85000,Excellent,720,2/9/2021
+6072,Calvin Barry,30,Baltimore,O-,Master's,Retired,50000,Average,700,1/23/2023
+7419,Pamela Lopez,18,Baltimore,O-,PhD,Unemployed,0,Poor,710,11/8/2019
+4057,Catherine Thompson Dds,18,Baltimore,AB-,Associate,Employed,40000,Good,650,6/30/2021
+4307,Tracy Martin,14,Baltimore,A-,High School,Student,0,Excellent,710,7/26/2019
+8937,Christina Barber,19,Baltimore,AB-,Bachelors,Self-Employed,0,Poor,450,12/28/2021
+4870,Brandy Friedman Md,24,Baltimore,AB-,PhD,Unemployed,0,Average,400,12/21/2023
+6223,Adam Smith,20,Baltimore,A+,PhD,Employed,110000,Good,770,12/23/2020
+6863,Curtis Harding,38,Baltimore,AB+,Associate,Unemployed,0,Poor,710,1/27/2021
+9895,Alexander Smith,32,Baltimore,A+,High School,Gig-Worker,38000,Average,610,8/10/2019
+9028,Mary Walker,24,Baltimore,O+,Bachelors,Employed,95000,Excellent,790,4/28/2021
+1084,Nancy Davis,15,Baltimore,B-,PhD,Gig-Worker,45000,Average,590,10/28/2022
+3180,Jonathan Miller,20,Baltimore,B+,High School,Employed,60000,Excellent,810,7/17/2023
+1933,Noah Moon,48,Baltimore,O+,Bachelors,Student,0,Good,710,10/17/2020
+9661,Jose Anderson,23,Baltimore,O-,PhD,Self-Employed,120000,Average,660,11/19/2023
+4877,Craig Chavez,23,Baltimore,AB-,Associate,Unemployed,0,Poor,710,8/24/2020
+6947,Thomas Hoode,32,Baltimore,O+,PhD,Employed,130000,Good,740,7/17/2023
+8937,Christina Barber,19,Baltimore,AB-,Bachelors,Self-Employed,0,Poor,450,12/28/2021
+4870,Brandy Friedman Md,24,Baltimore,AB-,PhD,Unemployed,0,Average,400,12/21/2023
+6223,Adam Smith,20,Baltimore,A+,PhD,Employed,110000,Good,770,12/23/2020

@@ -1,6 +1,11 @@
+set.seed(112)
 library(tidyverse)
 library(tools)
 library(skimr)
+library(randomForest)
+library(caret)
+library(nnet)
+library(neuralnet)
 
 # Reading the dataset
 
@@ -182,3 +187,54 @@ skim(data)
 
 # Saving the cleaned dataset to a CSV file
 write.csv(data,'clean_health.csv',row.names = F)
+
+# Building the model
+# Selecting variables to include in the model
+names(data)
+new_data <- data[,c(3,4,5,6,7,8,9,10)]
+names(new_data)
+
+# creating dummy varibles for city, education, employment status, and
+# health condition ( using onehot encoding)
+
+new_data <- cbind(new_data[,-c(2,3,4,5)],class.ind(new_data$City),
+                  class.ind(new_data$Blood.Type),class.ind(new_data$Education),
+                  class.ind(new_data$Employment.Status))
+
+# Droping the first dummy variable(s) to avoid colinearity among the 
+# predictor variables
+new_data <- new_data[,-c(5,8,16,21)]
+
+# Splitting the data into training and testing set and normalizing
+id <- sample(2,nrow(new_data),replace = T,prob = c(.8,.2))
+training <- new_data[id==1,]
+testing <- new_data[id==2,]
+
+# Normalizing function
+f1 <- function(x){
+  if(is.numeric(x)){
+    return((x-min(x))/(max(x)-min(x)))
+  }else{
+    return(x)
+  }
+}
+# Applying the function to the training and testing set
+train <- as.data.frame(lapply(training,f1))
+test <- as.data.frame(lapply(testing,f1))
+
+View(training)
+
+train$Health.Condition <- factor(train$Health.Condition)
+test$Health.Condition <- factor(test$Health.Condition)
+# Fitting a random forest model to the training set
+
+model <-randomForest(Health.Condition~.,data=train,
+                     ntree=300,
+                    )
+varImpPlot(model) #Checking important variables
+plot(model) # Visualizing the model
+
+model # Model summary
+# Checking model performance on test data
+confusionMatrix(table(Actual=test$Health.Condition, 
+                      Predicted=predict(model,test)))

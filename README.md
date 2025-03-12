@@ -19,6 +19,9 @@ This repository showcases a data cleaning challenge I completed using R. The pro
         - tidyverse: For data manipulation and visualization.
         - tools: For code and text processing
         - skimr: For descriptive statistics
+        - randomForest
+        - nnet
+        - caret
  
 ### Steps Taken 
 - Load libraries and read the dataset

@@ -5,7 +5,6 @@ library(skimr)
 library(randomForest)
 library(caret)
 library(nnet)
-library(neuralnet)
 
 # Reading the dataset
 
